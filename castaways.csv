@@ -1,0 +1,634 @@
+name,season,age,state,elim,is_censored,is_male
+Sonja Christopher,Borneo,63,CA,3,0,0
+B.B. Andersen,Borneo,64,KS,6,0,1
+Stacey Stillman,Borneo,27,CA,9,0,0
+Ramona Gray,Borneo,29,NJ,12,0,0
+Dirk Been,Borneo,23,WI,15,0,1
+Joel Klug,Borneo,27,AR,18,0,1
+Gretchen Cordy,Borneo,38,TN,21,0,0
+Greg Buis,Borneo,24,CO,24,0,1
+Jenna Lewis,Borneo,22,NH,27,0,0
+Gervase Peterson,Borneo,30,NJ,30,0,1
+Colleen Haskell,Borneo,23,FL,33,0,0
+Sean Kenniff,Borneo,30,NY,36,0,1
+Susan Hawk,Borneo,38,WI,37,0,0
+Rudy Boesch,Borneo,72,VA,38,0,1
+Kelly Wiglesworth,Borneo,22,NV,39,1,0
+Richard Hatch,Borneo,39,RI,39,1,1
+Debb Eaton,The Australian Outback,45,NH,3,0,0
+Kel Gleason,The Australian Outback,32,TX,6,0,1
+Maralyn Hershey,The Australian Outback,51,VA,9,0,0
+Mitchell Olson,The Australian Outback,23,NJ,12,0,1
+Kimmi Kappenberg,The Australian Outback,27,NY,15,0,0
+Michael Skupin,The Australian Outback,38,MI,17,1,1
+Jeff Varner,The Australian Outback,34,NY,21,0,1
+Alicia Calaway,The Australian Outback,32,NY,24,0,0
+Jerri Manthey,The Australian Outback,30,CA,27,0,0
+Nick Brown,The Australian Outback,23,WA,30,0,1
+Amber Brkich,The Australian Outback,22,PA,33,0,0
+Rodger Bingham,The Australian Outback,53,KY,36,0,1
+Elisabeth Filarski,The Australian Outback,23,MA,39,0,0
+Keith Famie,The Australian Outback,40,MI,41,0,1
+Colby Donaldson,The Australian Outback,26,TX,42,1,1
+Tina Wesson,The Australian Outback,39,TN,42,1,0
+Diane Ogden,Africa,42,NE,3,0,0
+Jessie Camacho,Africa,27,FL,6,0,0
+Carl Bilancione,Africa,46,FL,9,0,1
+Linda Spencer,Africa,44,MA,12,0,0
+Silas Gaither,Africa,23,TN,15,0,1
+Lindsey Richter,Africa,26,OR,18,0,0
+Clarence Black,Africa,24,MI,21,0,1
+Kelly Goldsmith,Africa,22,CA,24,0,0
+Brandon Quinton,Africa,25,TX,27,0,1
+Frank Garrison,Africa,43,NY,30,0,1
+Kim Powers,Africa,29,PA,33,0,0
+Teresa Cooper,Africa,42,GA,36,0,0
+Tom Buchanan,Africa,45,VA,37,0,1
+Lex van den Berghe,Africa,38,CA,38,0,1
+Kim Johnson,Africa,56,NY,39,1,0
+Ethan Zohn,Africa,27,MA,39,1,1
+Peter Harkey,Marquesas,44,MA,3,0,1
+Patricia Jackson,Marquesas,49,SC,6,0,0
+Hunter Ellis,Marquesas,33,CA,9,0,1
+Sarah Jones,Marquesas,24,CA,12,0,0
+Gabriel Cade,Marquesas,23,NC,15,0,1
+Gina Crews,Marquesas,28,FL,18,0,0
+Rob Mariano,Marquesas,25,MA,21,0,1
+John Carroll,Marquesas,36,NE,24,0,1
+Zoe Zanidakis,Marquesas,35,ME,27,0,0
+Tammy Leitner,Marquesas,29,AZ,30,0,0
+Robert DeCanio,Marquesas,38,NY,33,0,1
+Sean Rector,Marquesas,30,NY,36,0,1
+Paschal English,Marquesas,56,GA,37,1,1
+Kathy Vavrick-O'Brien,Marquesas,47,VT,38,0,0
+Neleh Dennis,Marquesas,21,UT,39,1,0
+Vecepia Towery,Marquesas,36,OR,39,1,0
+John Raymond,Thailand,40,LA,3,0,1
+Tanya Vance,Thailand,27,TN,6,0,0
+Jed Hildebrand,Thailand,25,TX,9,0,1
+Ghandia Johnson,Thailand,33,CO,12,0,0
+Stephanie Dill,Thailand,29,AR,15,0,0
+Robb Zbacnik,Thailand,23,AZ,18,0,1
+Shii Ann Huang,Thailand,28,NY,21,0,0
+Erin Collins,Thailand,26,TX,24,0,0
+Ken Stafford,Thailand,30,NY,27,0,1
+Penny Ramsey,Thailand,27,TX,30,0,0
+Jake Billingsley,Thailand,60,TX,33,0,1
+Ted Rogers Jr.,Thailand,37,NC,36,0,1
+Helen Glover,Thailand,47,RI,37,0,0
+Jan Gentry,Thailand,53,FL,38,0,0
+Clay Jordan,Thailand,46,LA,39,1,1
+Brian Heidik,Thailand,34,CA,39,1,1
+Ryan Aiken,The Amazon,23,MD,3,0,1
+Janet Koth,The Amazon,46,MO,6,0,0
+Daniel Lue,The Amazon,26,TX,9,0,1
+JoAnna Ward,The Amazon,31,SC,12,0,0
+Jeanne Hebert,The Amazon,40,MA,15,0,0
+Shawna Mitchell,The Amazon,23,CA,18,0,0
+Roger Sexton,The Amazon,56,CA,21,0,1
+Dave Johnson,The Amazon,23,CA,24,0,1
+Deena Bennett,The Amazon,35,CA,27,0,0
+Alex Bell,The Amazon,32,CA,30,0,1
+Christy Smith,The Amazon,24,CO,33,0,0
+Heidi Strobel,The Amazon,24,MO,36,0,0
+Butch Lockley,The Amazon,50,IL,37,0,1
+Rob Cesternino,The Amazon,24,NY,38,0,1
+Matthew von Ertfelda,The Amazon,33,DC,39,1,1
+Jenna Morasca,The Amazon,21,PA,39,1,0
+Nicole Delma,Pearl Islands,24,CA,3,0,0
+Ryan Shoulders,Pearl Islands,23,TN,6,0,1
+Michelle Tesauro,Pearl Islands,22,NJ,15,0,0
+Trish Dunn,Pearl Islands,42,MD,18,0,0
+Shawn Cohen,Pearl Islands,28,NY,19,0,1
+Osten Taylor,Pearl Islands,27,MA,19,1,1
+Andrew Savage,Pearl Islands,39,IL,21,0,1
+Ryan Opray,Pearl Islands,30,CA,24,0,1
+Rupert Boneham,Pearl Islands,39,IN,27,0,1
+Tijuana Bradley,Pearl Islands,26,MO,30,0,0
+Christa Hastie,Pearl Islands,24,CA,33,0,0
+Burton Roberts,Pearl Islands,31,CA,36,0,1
+Darrah Johnson,Pearl Islands,22,MS,37,0,0
+Jon Dalton,Pearl Islands,29,VA,38,0,1
+Lillian Morris,Pearl Islands,51,OH,39,1,0
+Sandra Diaz-Twine,Pearl Islands,29,WA,39,1,0
+Tina Wesson,All-Stars,42,TN,3,0,0
+Rudy Boesch,All-Stars,75,VA,6,0,1
+Jenna Morasca,All-Stars,22,PA,9,1,0
+Rob Cesternino,All-Stars,25,NY,12,0,1
+Richard Hatch,All-Stars,42,RI,15,0,1
+Susan Hawk,All-Stars,42,WI,17,1,0
+Colby Donaldson,All-Stars,29,TX,19,0,1
+Ethan Zohn,All-Stars,30,MA,21,0,1
+Jerri Manthey,All-Stars,33,CA,24,0,0
+Lex van den Berghe,All-Stars,40,CA,27,0,1
+Kathy Vavrick-O'Brien,All-Stars,49,VT,28,0,0
+Alicia Calaway,All-Stars,35,NY,30,0,0
+Shii Ann Huang,All-Stars,29,NY,33,0,0
+Tom Buchanan,All-Stars,48,VA,36,0,1
+Rupert Boneham,All-Stars,39,IN,37,0,1
+Jenna Lewis,All-Stars,26,NH,38,0,0
+Rob Mariano,All-Stars,27,MA,39,1,1
+Amber Brkich,All-Stars,25,PA,39,1,0
+Brook Geraghty,Vanuatu,27,MA,3,0,1
+Dolly Neely,Vanuatu,25,PA,6,0,0
+John Palyok,Vanuatu,31,CA,7,0,1
+Mia Galeotalanza,Vanuatu,29,NJ,7,0,0
+Brady Finta,Vanuatu,33,CA,10,0,1
+Travis Sampson,Vanuatu,33,TN,12,0,1
+Lisa Keiffer,Vanuatu,44,LA,15,0,0
+John Kenney,Vanuatu,22,CA,18,0,1
+Rory Freeman,Vanuatu,35,IA,21,0,1
+Lea Masters,Vanuatu,40,SC,24,0,1
+Chad Crittenden,Vanuatu,34,CA,27,0,1
+Leann Slaby,Vanuatu,35,WI,30,0,0
+Ami Cusack,Vanuatu,31,CO,33,0,0
+Julie Berry,Vanuatu,23,ME,36,0,0
+Eliza Orlins,Vanuatu,21,NY,37,0,0
+Scout Cloud Lee,Vanuatu,59,OK,38,0,0
+Twila Tanner,Vanuatu,41,MO,39,1,0
+Chris Daugherty,Vanuatu,33,OH,39,1,1
+Jonathan Libby,Palau,23,TX,2,1,1
+Wanda Shirk,Palau,55,PA,2,1,0
+Jolanda Jones,Palau,38,TX,3,0,0
+Ashlee Ashby,Palau,22,SC,6,0,0
+Jeff Wilson,Palau,21,CA,8,0,1
+Kim Mullen,Palau,25,OH,11,0,0
+Willard Smith,Palau,56,WA,12,0,1
+Angie Jakusz,Palau,24,LA,12,0,0
+James Miller,Palau,33,AL,15,0,1
+Ibrehem Rahman,Palau,27,AL,18,0,1
+Bobby Jon Drinkard,Palau,27,AL,21,1,1
+Coby Archa,Palau,32,TX,24,0,1
+Janu Tornell,Palau,39,NV,27,1,0
+Stephenie LaGrossa,Palau,24,PA,30,0,0
+Gregg Carey,Palau,27,IL,33,0,1
+Caryn Groedel,Palau,46,OH,36,0,0
+Jenn Lyon,Palau,32,CA,37,0,0
+Ian Rosenberger,Palau,23,FL,38,0,1
+Katie Gallagher,Palau,29,CA,39,1,0
+Tom Westman,Palau,40,NY,39,1,1
+Jim Lynch,Guatemala,63,CO,3,0,1
+Morgan McDevitt,Guatemala,21,IL,6,0,0
+Brianna Varela,Guatemala,21,WA,8,0,0
+Brooke Struck,Guatemala,25,OR,11,0,0
+Blake Towsley,Guatemala,24,TX,14,0,1
+Margaret Bobonich,Guatemala,43,OH,15,0,0
+Brian Corridan,Guatemala,22,NY,15,0,1
+Amy O'Hara,Guatemala,39,MA,18,0,0
+Brandon Bellinger,Guatemala,22,KS,21,0,1
+Bobby Jon Drinkard,Guatemala,28,AL,24,0,1
+Jamie Newton,Guatemala,24,CA,27,0,1
+Gary Hogeboom,Guatemala,46,MI,30,0,1
+Judd Sergeant,Guatemala,34,NJ,33,0,1
+Cindy Hall,Guatemala,31,FL,36,0,0
+Lydia Morales,Guatemala,42,WA,37,0,0
+Rafe Judkins,Guatemala,22,RI,38,0,1
+Stephenie LaGrossa,Guatemala,25,PA,39,1,0
+Danni Boatwright,Guatemala,30,KS,39,1,0
+Tina Scheer,Panama,44,WI,3,0,0
+Melinda Hyder,Panama,32,TN,6,0,0
+Misty Giles,Panama,24,TX,8,0,0
+Ruth-Marie Milliman,Panama,48,SC,11,0,0
+Bobby Mason,Panama,32,CA,14,0,1
+Dan Barry,Panama,51,MA,15,0,1
+Nick Stanbury,Panama,25,AZ,18,0,1
+Austin Carty,Panama,24,NC,21,0,1
+Sally Schumann,Panama,27,IL,24,0,0
+Bruce Kanegai,Panama,57,CA,25,1,1
+Courtney Marit,Panama,31,CA,30,0,0
+Shane Powers,Panama,34,CA,33,0,1
+Cirie Fields,Panama,35,SC,36,0,0
+Terry Deitz,Panama,46,CT,38,0,1
+Danielle DiLorenzo,Panama,24,FL,39,1,0
+Aras Baskauskas,Panama,24,CA,39,1,1
+Sekou Bunch,Cook Islands,45,CA,3,0,1
+Billy Garcia,Cook Islands,36,NY,6,0,1
+Cecilia Mansilla,Cook Islands,29,CA,8,0,0
+J.P. Calderon,Cook Islands,30,CA,11,0,1
+Stephannie Favor,Cook Islands,35,SC,14,0,0
+Cao Boi Bui,Cook Islands,42,VA,15,0,1
+Cristina Coria,Cook Islands,35,CA,15,0,0
+Jessica Smith,Cook Islands,27,CA,18,0,0
+Brad Virata,Cook Islands,29,CA,21,0,1
+Rebecca Borman,Cook Islands,34,NY,24,0,0
+Jenny Guzon-Bae,Cook Islands,36,IL,24,0,0
+Nate Gonzalez,Cook Islands,26,CA,27,0,1
+Candice Woodcock,Cook Islands,23,NC,30,0,0
+Jonathan Penner,Cook Islands,44,CA,33,0,1
+Parvati Shallow,Cook Islands,23,CA,36,0,0
+Adam Gentry,Cook Islands,28,CA,37,0,1
+Sundra Oakley,Cook Islands,31,CA,38,0,0
+Becky Lee,Cook Islands,28,DC,39,1,0
+Ozzy Lusth,Cook Islands,25,CA,39,1,1
+Yul Kwon,Cook Islands,31,CA,39,1,1
+Jessica deBen,Fiji,27,CA,3,0,0
+Erica Durousseau,Fiji,27,LA,6,0,0
+Sylvia Kwan,Fiji,52,CA,8,0,0
+Gary Stritesky,Fiji,55,MN,10,1,1
+Liliana Gomez,Fiji,25,CA,11,0,0
+Rita Verreos,Fiji,38,TX,14,0,0
+Anthony Robinson,Fiji,32,CA,16,0,1
+Rocky Reid,Fiji,28,CA,19,0,1
+Lisi Linares,Fiji,36,CA,21,0,0
+Michelle Yi,Fiji,23,OH,24,0,0
+Edgardo Rivera,Fiji,28,FL,27,0,1
+Mookie Lee,Fiji,25,IL,30,0,1
+Alex Angarita,Fiji,28,CA,33,0,1
+Stacy Kimball,Fiji,27,CO,36,0,0
+Boo Bernis,Fiji,34,LA,37,0,1
+Yau-Man Chan,Fiji,54,CA,38,0,1
+Cassandra Franklin,Fiji,42,CA,39,1,0
+Dreamz Herd,Fiji,25,NC,39,1,1
+Earl Cole,Fiji,35,CA,39,1,1
+Chicken Morris,China,47,VA,3,0,1
+Ashley Massaro,China,28,NY,6,0,0
+Leslie Nease,China,38,SC,9,0,0
+Dave Cruser,China,37,CA,12,0,1
+Aaron Reisberger,China,32,CA,15,0,1
+Sherea Lloyd,China,26,GA,18,0,0
+Jaime Dugan,China,22,SC,21,0,0
+Jean-Robert Bellande,China,36,NV,24,0,1
+Frosti Zernow,China,20,IL,27,0,1
+James Clement,China,30,LA,30,0,1
+Erik Huffman,China,26,TN,33,0,1
+Peih-Gee Law,China,29,CA,36,0,0
+Denise Martin,China,40,MA,38,0,0
+Amanda Kimmel,China,22,MT,39,1,0
+Courtney Yates,China,26,NY,39,1,0
+Todd Herzog,China,22,UT,39,1,1
+Jon Dalton,Micronesia,33,VA,3,0,1
+Mary Sartain,Micronesia,29,CA,6,0,0
+Yau-Man Chan,Micronesia,55,CA,8,0,1
+Mikey Bortone,Micronesia,34,CA,11,0,1
+Joel Anderson,Micronesia,32,AZ,14,0,1
+Jonathan Penner,Micronesia,45,CA,15,1,1
+Chet Welch,Micronesia,48,PA,17,0,1
+Kathy Sleckman,Micronesia,45,IL,19,1,0
+Tracy Hughes-Wolf,Micronesia,43,VA,20,0,0
+Ami Cusack,Micronesia,34,CO,21,0,0
+Eliza Orlins,Micronesia,25,NY,24,0,0
+Ozzy Lusth,Micronesia,26,CA,27,0,1
+Jason Siska,Micronesia,22,IL,30,0,1
+James Clement,Micronesia,30,LA,31,1,1
+Alexis Jones,Micronesia,24,CA,33,0,0
+Erik Reichenbach,Micronesia,22,MI,36,0,1
+Natalie Bolton,Micronesia,32,CA,37,0,0
+Cirie Fields,Micronesia,37,CT,38,0,0
+Amanda Kimmel,Micronesia,23,CA,39,1,0
+Parvati Shallow,Micronesia,25,CA,39,1,0
+Michelle Chase,Gabon,24,CA,3,0,0
+Gillian Larson,Gabon,61,CA,6,0,0
+Paloma Soto-Castillo,Gabon,23,CA,9,0,0
+Jacquie Berg,Gabon,25,CA,12,0,0
+G.C. Brown,Gabon,25,OR,15,0,1
+Kelly Czarnecki,Gabon,22,IL,18,0,0
+Ace Gordon,Gabon,27,FL,21,0,1
+Dan Kay,Gabon,32,MA,21,0,1
+Marcus Lehman,Gabon,28,GA,24,0,1
+Charlie Herschel,Gabon,29,NY,27,0,1
+Randy Bailey,Gabon,49,MO,30,0,1
+Corinne Kaplan,Gabon,29,CA,33,0,0
+Crystal Cox,Gabon,29,NC,36,0,0
+Ken Hoang,Gabon,22,CA,37,0,1
+Matty Whitmore,Gabon,29,CA,38,0,1
+Sugar Kiper,Gabon,29,NY,39,1,0
+Susie Smith,Gabon,47,IA,39,1,0
+Bob Crowley,Gabon,57,ME,39,1,1
+Carolina Eastwood,Tocantins,26,CA,3,0,0
+Candace Smith,Tocantins,31,OH,6,0,0
+Jerry Sims,Tocantins,49,SC,9,0,1
+Sandy Burgin,Tocantins,53,KY,12,0,0
+Spencer Duhm,Tocantins,18,FL,15,0,1
+Sydney Wheeler,Tocantins,24,NC,18,0,0
+Joe Dowdle,Tocantins,26,TX,20,1,1
+Brendan Synnott,Tocantins,30,NY,24,0,1
+Tyson Apostol,Tocantins,29,UT,27,0,1
+Sierra Reed,Tocantins,23,CA,30,0,0
+Debbie Beebe,Tocantins,46,AL,33,0,0
+Coach Wade,Tocantins,37,MO,36,0,1
+Taj Johnson-George,Tocantins,37,TN,37,0,0
+Erinn Lobdell,Tocantins,26,WI,38,0,0
+Stephen Fishbach,Tocantins,29,NY,39,1,1
+J.T. Thomas,Tocantins,24,AL,39,1,1
+Marisa Calihan,Samoa,26,OH,3,0,0
+Mike Borassi,Samoa,62,CA,5,1,1
+Betsy Bolan,Samoa,48,NH,6,0,0
+Ben Browning,Samoa,28,CA,8,0,1
+Yasmin Giles,Samoa,33,CA,11,0,0
+Ashley Trainer,Samoa,22,MN,14,0,0
+Russell Swan,Samoa,42,PA,15,1,1
+Liz Kim,Samoa,33,NY,18,0,0
+Erik Cardona,Samoa,28,CA,21,0,1
+Kelly Sharbaugh,Samoa,25,CA,24,0,0
+Laura Morett,Samoa,39,OR,27,0,0
+John Fincher,Samoa,25,CA,30,0,1
+Dave Ball,Samoa,38,CA,31,0,1
+Monica Padilla,Samoa,25,CA,33,0,0
+Shambo Waters,Samoa,45,WA,36,0,0
+Jaison Robinson,Samoa,28,IL,37,0,1
+Brett Clouser,Samoa,23,CA,38,0,1
+Mick Trimming,Samoa,33,CA,39,1,1
+Russell Hantz,Samoa,36,TX,39,1,1
+Natalie White,Samoa,26,AR,39,1,0
+Sugar Kiper,Heroes vs. Villains,30,CA,3,0,0
+Stephenie LaGrossa,Heroes vs. Villains,29,PA,6,0,0
+Randy Bailey,Heroes vs. Villains,50,TX,8,0,1
+Cirie Fields,Heroes vs. Villains,39,NJ,11,0,0
+Tom Westman,Heroes vs. Villains,45,NY,14,0,1
+Tyson Apostol,Heroes vs. Villains,30,UT,15,0,1
+James Clement,Heroes vs. Villains,32,LA,15,0,1
+Rob Mariano,Heroes vs. Villains,33,FL,18,0,1
+Coach Wade,Heroes vs. Villains,38,CA,21,0,1
+Courtney Yates,Heroes vs. Villains,28,NY,24,0,0
+J.T. Thomas,Heroes vs. Villains,25,AL,27,0,1
+Amanda Kimmel,Heroes vs. Villains,25,CA,30,0,0
+Candice Woodcock,Heroes vs. Villains,26,DC,31,0,0
+Danielle DiLorenzo,Heroes vs. Villains,28,CA,33,0,0
+Rupert Boneham,Heroes vs. Villains,45,IN,36,0,1
+Colby Donaldson,Heroes vs. Villains,35,TX,37,0,1
+Jerri Manthey,Heroes vs. Villains,38,CA,38,0,0
+Russell Hantz,Heroes vs. Villains,36,TX,39,1,1
+Parvati Shallow,Heroes vs. Villains,26,CA,39,1,0
+Sandra Diaz-Twine,Heroes vs. Villains,35,CT,39,1,0
+Wendy DeSmidt-Kohlhoff,Nicaragua,48,MT,3,0,0
+Shannon Elkins,Nicaragua,30,LA,6,0,1
+Jimmy Johnson,Nicaragua,67,FL,8,0,1
+Jimmy Tarantino,Nicaragua,48,MA,11,0,1
+Tyrone Davis,Nicaragua,42,CA,14,0,1
+Kelly Bruno,Nicaragua,26,NC,15,0,0
+Yve Rojas,Nicaragua,41,MO,15,0,0
+Jill Behm,Nicaragua,43,PA,18,0,0
+Alina Wilson,Nicaragua,23,CA,22,0,0
+Marty Piombo,Nicaragua,48,CA,24,0,1
+Brenda Lowe,Nicaragua,27,FL,27,0,0
+NaOnka Mixon,Nicaragua,27,CA,28,1,0
+Kelly Shinn,Nicaragua,20,AZ,28,1,0
+Benry Henry,Nicaragua,24,CA,32,0,1
+Jane Bright,Nicaragua,56,NC,36,0,0
+Dan Lembo,Nicaragua,63,NY,37,0,1
+Holly Hoffman,Nicaragua,44,SD,38,0,0
+Sash Lenahan,Nicaragua,30,NY,39,1,1
+Chase Rice,Nicaragua,24,NC,39,1,1
+Fabio Birza,Nicaragua,21,CA,39,1,1
+Francesca Hogi,Redemption Island,36,DC,3,0,0
+Russell Hantz,Redemption Island,37,TX,8,0,1
+Kristina Kell,Redemption Island,46,CA,11,0,0
+Krista Klumpp,Redemption Island,25,SC,13,0,0
+Stephanie Valencia,Redemption Island,26,CA,16,0,0
+Sarita White,Redemption Island,36,CA,18,0,0
+David Murphy,Redemption Island,31,CA,24,0,1
+Julie Wolfe,Redemption Island,50,CA,27,0,0
+Steve Wright,Redemption Island,51,CA,30,0,1
+Ralph Kiser,Redemption Island,45,VA,30,0,1
+Grant Mattos,Redemption Island,29,CA,35,0,1
+Matthew Elrod,Redemption Island,22,TN,5,0,1
+Mike Chiesl,Redemption Island,31,CA,22,0,1
+Andrea Boehlke,Redemption Island,21,WI,32,0,0
+Ashley Underwood,Redemption Island,25,ME,38,0,0
+Natalie Tenerelli,Redemption Island,19,CA,39,1,0
+Phillip Sheppard,Redemption Island,52,CA,39,1,1
+Rob Mariano,Redemption Island,34,FL,39,1,1
+Semhar Tadesse,South Pacific,24,CA,3,0,0
+Mark Caruso,South Pacific,48,NY,8,0,1
+Stacey Powell,South Pacific,44,TX,11,0,0
+Elyse Umemoto,South Pacific,27,NV,14,0,0
+Mikayla Wingle,South Pacific,22,FL,16,0,0
+Christine Shields Markoski,South Pacific,39,NY,5,0,0
+Jim Rice,South Pacific,35,CO,24,0,1
+Keith Tollefson,South Pacific,26,CA,21,0,1
+Dawn Meehan,South Pacific,41,UT,27,0,0
+Whitney Duncan,South Pacific,27,TN,27,0,0
+John Cochran,South Pacific,24,DC,30,0,1
+Edna Ma,South Pacific,35,CA,32,0,0
+Brandon Hantz,South Pacific,19,TX,35,0,1
+Rick Nelson,South Pacific,51,UT,37,0,1
+Ozzy Lusth,South Pacific,30,CA,38,0,1
+Albert Destrade,South Pacific,26,FL,39,1,1
+Coach Wade,South Pacific,39,CA,39,1,1
+Sophie Clarke,South Pacific,22,NY,39,1,0
+Kourtney Moon,One World,29,TX,3,1,0
+Nina Acosta,One World,51,CA,5,0,0
+Matt Quinlan,One World,33,CA,8,0,1
+Bill Posley,One World,28,CA,11,0,1
+Monica Culpepper,One World,41,FL,14,0,0
+Colton Cumbie,One World,21,AL,16,1,1
+Jonas Otsuji,One World,37,UT,20,0,1
+Michael Jefferson,One World,30,WA,22,0,1
+Jay Byars,One World,25,SC,25,0,1
+Leif Manson,One World,27,CA,27,0,1
+Troyzan Robertson,One World,50,FL,30,0,1
+Kat Edorsson,One World,22,FL,33,0,0
+Tarzan Smith,One World,64,TX,36,0,1
+Alicia Rosa,One World,25,IL,37,0,0
+Christina Cha,One World,29,CA,38,0,0
+Chelsea Meissner,One World,26,SC,39,1,0
+Sabrina Thompson,One World,33,NY,39,1,0
+Kim Spradlin,One World,29,TX,39,1,0
+Zane Knight,Philippines,28,VA,3,0,1
+Roxanne Morris,Philippines,28,NY,6,0,0
+Angie Layton,Philippines,20,UT,8,0,0
+Russell Swan,Philippines,45,PA,10,0,1
+Dana Lambert,Philippines,32,NC,12,1,0
+Sarah Dawson,Philippines,28,MD,13,0,0
+Katie Hanson,Philippines,22,DE,16,0,0
+R.C. Saint-Amour,Philippines,27,NY,19,0,0
+Jeff Kent,Philippines,44,TX,22,0,1
+Artis Silvester,Philippines,53,LA,25,0,1
+Pete Yurkowski,Philippines,24,NJ,27,0,1
+Jonathan Penner,Philippines,50,CA,30,0,1
+Carter Williams,Philippines,24,KS,33,0,1
+Abi-Maria Gomes,Philippines,32,CA,36,0,0
+Malcolm Freberg,Philippines,25,CA,38,0,1
+Lisa Whelchel,Philippines,49,TX,39,1,0
+Michael Skupin,Philippines,50,MI,39,1,1
+Denise Stapley,Philippines,41,IA,39,1,0
+Francesca Hogi,Caramoan,38,NY,3,0,0
+Allie Pohevitz,Caramoan,25,NY,5,0,0
+Hope Driskill,Caramoan,23,MO,7,0,0
+Shamar Thomas,Caramoan,27,NY,10,1,1
+Laura Alexander,Caramoan,23,DC,10,0,0
+Brandon Hantz,Caramoan,20,TX,13,0,1
+Matt Bischoff,Caramoan,38,OH,16,0,1
+Julia Landauer,Caramoan,21,CA,19,0,0
+Corinne Kaplan,Caramoan,33,CA,22,0,0
+Michael Snow,Caramoan,44,NY,25,0,1
+Phillip Sheppard,Caramoan,54,CA,28,0,1
+Malcolm Freberg,Caramoan,25,CA,30,0,1
+Reynold Toepfer,Caramoan,30,CA,31,0,1
+Andrea Boehlke,Caramoan,23,NY,33,0,0
+Brenda Lowe,Caramoan,29,FL,36,0,0
+Erik Reichenbach,Caramoan,27,CA,36,1,1
+Eddie Fox,Caramoan,23,NJ,38,0,1
+Dawn Meehan,Caramoan,42,UT,39,1,0
+Sherri Biethman,Caramoan,41,ID,39,1,0
+John Cochran,Caramoan,25,DC,39,1,1
+Rupert Boneham,Blood vs. Water,49,IN,1,1,1
+Colton Cumbie,Blood vs. Water,22,AL,7,1,1
+Rachel Foulger,Blood vs. Water,33,UT,6,0,0
+Marissa Peterson,Blood vs. Water,21,NC,3,0,0
+Candice Cody,Blood vs. Water,30,DC,1,1,0
+Brad Culpepper,Blood vs. Water,44,FL,10,0,1
+Kat Edorsson,Blood vs. Water,23,FL,16,0,0
+John Cody,Blood vs. Water,30,DC,8,0,1
+Laura Boneham,Blood vs. Water,44,IN,18,0,0
+Aras Baskauskas,Blood vs. Water,31,CA,21,0,1
+Vytas Baskauskas,Blood vs. Water,33,CA,22,0,1
+Caleb Bankston,Blood vs. Water,26,AL,29,0,1
+Katie Collins,Blood vs. Water,25,NY,32,0,0
+Hayden Moss,Blood vs. Water,27,TX,35,0,1
+Laura Morett,Blood vs. Water,43,OR,26,0,0
+Ciera Eastin,Blood vs. Water,24,OR,37,0,0
+Tina Wesson,Blood vs. Water,52,NC,38,0,0
+Gervase Peterson,Blood vs. Water,43,PA,39,1,1
+Monica Culpepper,Blood vs. Water,42,FL,39,1,0
+Tyson Apostol,Blood vs. Water,34,UT,39,1,1
+David Samson,Cagayan,45,FL,3,0,1
+Garrett Adelstein,Cagayan,27,CA,6,0,1
+Brice Johnston,Cagayan,27,PA,8,0,1
+J'Tia Taylor,Cagayan,31,IL,11,0,0
+Cliff Robinson,Cagayan,46,NJ,14,0,1
+Lindsey Ogle,Cagayan,29,IN,14,1,0
+Alexis Maxwell,Cagayan,21,IL,16,0,0
+Sarah Lacina,Cagayan,29,IA,19,0,0
+Morgan McLeod,Cagayan,21,CA,22,0,0
+LJ McKanas,Cagayan,34,MA,25,0,1
+Jeremiah Wood,Cagayan,34,NC,28,0,1
+Jefra Bland,Cagayan,22,KY,30,0,0
+Tasha Fox,Cagayan,37,MO,33,0,0
+Trish Hegarty,Cagayan,48,MA,36,0,0
+Spencer Bledsoe,Cagayan,21,IL,37,0,1
+Kass McQuillen,Cagayan,41,CA,38,0,0
+Woo Hwang,Cagayan,29,CA,39,1,1
+Tony Vlachos,Cagayan,39,NJ,39,1,1
+Nadiya Anderson,San Juan del Sur,28,NJ,3,0,0
+Val Collins,San Juan del Sur,35,MA,6,0,0
+John Rocker,San Juan del Sur,39,GA,8,0,1
+Drew Christy,San Juan del Sur,25,FL,10,0,1
+Kelley Wentworth,San Juan del Sur,28,WA,13,0,0
+Dale Wentworth,San Juan del Sur,55,WA,15,0,1
+Julie McGee,San Juan del Sur,34,GA,18,1,0
+Josh Canfield,San Juan del Sur,32,NY,21,0,1
+Jeremy Collins,San Juan del Sur,36,MA,24,0,1
+Wes Nale,San Juan del Sur,23,LA,26,0,1
+Reed Kelly,San Juan del Sur,31,NY,29,0,1
+Alec Christy,San Juan del Sur,22,FL,32,0,1
+Jon Misch,San Juan del Sur,26,MI,35,0,1
+Baylor Wilson,San Juan del Sur,20,TN,37,0,0
+Keith Nale,San Juan del Sur,53,LA,38,0,1
+Missy Payne,San Juan del Sur,47,TX,39,1,0
+Jaclyn Schultz,San Juan del Sur,25,NV,39,1,0
+Natalie Anderson,San Juan del Sur,28,NJ,39,1,0
+So Kim,Worlds Apart,31,CA,3,0,0
+Vince Sly,Worlds Apart,32,CA,6,0,1
+Nina Poersch,Worlds Apart,51,CA,8,0,0
+Lindsey Cascaddan,Worlds Apart,24,FL,11,0,0
+Max Dawson,Worlds Apart,37,CA,14,0,1
+Joaquin Souberbielle,Worlds Apart,27,NY,16,0,1
+Kelly Remington,Worlds Apart,44,NY,19,0,0
+Hali Ford,Worlds Apart,25,CA,22,0,0
+Joe Anglim,Worlds Apart,25,AZ,24,0,1
+Jenn Brown,Worlds Apart,22,CA,27,0,0
+Shirin Oskooi,Worlds Apart,31,CA,29,0,0
+Tyler Fredrickson,Worlds Apart,33,CA,32,0,1
+Dan Foley,Worlds Apart,47,ME,35,0,1
+Sierra Dawn Thomas,Worlds Apart,27,UT,37,0,0
+Rodney Lavoie Jr.,Worlds Apart,24,MA,38,0,1
+Carolyn Rivera,Worlds Apart,52,FL,39,1,0
+Will Sims II,Worlds Apart,41,CA,39,1,1
+Mike Holloway,Worlds Apart,38,TX,39,1,1
+Vytas Baskauskas,Cambodia,35,CA,3,0,1
+Shirin Oskooi,Cambodia,32,CA,6,0,0
+Peih-Gee Law,Cambodia,37,CA,9,0,0
+Jeff Varner,Cambodia,49,NC,11,0,1
+Monica Padilla,Cambodia,30,NY,13,0,0
+Terry Deitz,Cambodia,55,CT,13,1,1
+Woo Hwang,Cambodia,31,CA,16,0,1
+Kass McQuillen,Cambodia,43,CA,19,0,0
+Andrew Savage,Cambodia,51,CA,21,0,1
+Kelly Wiglesworth,Cambodia,37,NC,24,0,0
+Ciera Eastin,Cambodia,26,OR,26,0,0
+Stephen Fishbach,Cambodia,36,NY,29,0,1
+Joe Anglim,Cambodia,26,AZ,32,0,1
+Abi-Maria Gomes,Cambodia,35,CA,35,0,0
+Kimmi Kappenberg,Cambodia,42,TX,36,0,0
+Keith Nale,Cambodia,54,LA,37,0,1
+Kelley Wentworth,Cambodia,29,WA,38,0,0
+Spencer Bledsoe,Cambodia,23,IL,39,1,1
+Tasha Fox,Cambodia,39,MO,39,1,0
+Jeremy Collins,Cambodia,37,MA,39,1,1
+Darnell Hamilton,Kaôh Rōng,27,IL,3,0,1
+Jennifer Lanzetti,Kaôh Rōng,38,UT,6,0,0
+Liz Markham,Kaôh Rōng,27,NY,8,0,0
+Caleb Reynolds,Kaôh Rōng,28,KY,9,1,1
+Alecia Holden,Kaôh Rōng,24,TX,11,0,0
+Anna Khait,Kaôh Rōng,26,NY,13,0,0
+Peter Baggenstos,Kaôh Rōng,34,MN,16,0,1
+Neal Gottlieb,Kaôh Rōng,38,CA,19,1,1
+Nick Maiorano,Kaôh Rōng,30,CA,22,0,1
+Debbie Wanner,Kaôh Rōng,49,PA,24,0,0
+Scot Pollard,Kaôh Rōng,40,IN,27,0,1
+Julia Sokolowski,Kaôh Rōng,19,MA,29,0,0
+Kyle Jason,Kaôh Rōng,31,MI,32,0,1
+Joe del Campo,Kaôh Rōng,72,FL,34,1,1
+Cydney Gillon,Kaôh Rōng,23,GA,37,0,0
+Tai Trang,Kaôh Rōng,51,CA,39,1,1
+Aubry Bracco,Kaôh Rōng,29,MA,39,1,0
+Michele Fitzgerald,Kaôh Rōng,24,NJ,39,1,0
+Rachel Ako,Millennials vs. Gen X,37,CA,4,0,0
+Mari Takahashi,Millennials vs. Gen X,31,CA,7,0,0
+Paul Wachter,Millennials vs. Gen X,52,FL,10,0,1
+Lucy Huang,Millennials vs. Gen X,42,CA,12,0,0
+CeCe Taylor,Millennials vs. Gen X,39,CA,15,0,0
+Figgy Figueroa,Millennials vs. Gen X,23,TN,18,0,0
+Michaela Bradshaw,Millennials vs. Gen X,25,TX,20,0,0
+Michelle Schubert,Millennials vs. Gen X,28,WA,23,0,0
+Taylor Stocker,Millennials vs. Gen X,24,ID,25,0,1
+Chris Hammons,Millennials vs. Gen X,38,OK,28,0,1
+Jessica Lewis,Millennials vs. Gen X,37,NY,30,1,0
+Zeke Smith,Millennials vs. Gen X,28,NY,33,0,1
+Will Wahl,Millennials vs. Gen X,18,NJ,34,0,1
+Sunday Burquest,Millennials vs. Gen X,45,MN,35,0,0
+Jay Starrett,Millennials vs. Gen X,27,FL,36,0,1
+Bret LaBelle,Millennials vs. Gen X,42,MA,37,0,1
+David Wright,Millennials vs. Gen X,42,CA,38,0,1
+Hannah Shapiro,Millennials vs. Gen X,24,CA,39,1,0
+Ken McNickle,Millennials vs. Gen X,33,CO,39,1,1
+Adam Klein,Millennials vs. Gen X,25,CA,39,1,1
+Ciera Eastin,Game Changers,27,OR,3,0,0
+Tony Vlachos,Game Changers,42,NJ,6,0,1
+Caleb Reynolds,Game Changers,28,KY,9,0,1
+Malcolm Freberg,Game Changers,29,CA,11,0,1
+J.T. Thomas,Game Changers,31,AL,13,0,1
+Sandra Diaz-Twine,Game Changers,41,CT,16,0,0
+Jeff Varner,Game Changers,50,NC,18,0,1
+Hali Ford,Game Changers,26,CA,21,0,0
+Ozzy Lusth,Game Changers,34,CA,24,0,1
+Debbie Wanner,Game Changers,51,PA,26,0,0
+Zeke Smith,Game Changers,28,NY,29,0,1
+Sierra Dawn Thomas,Game Changers,29,UT,32,0,0
+Andrea Boehlke,Game Changers,27,NY,33,0,0
+Michaela Bradshaw,Game Changers,25,TX,35,0,0
+Cirie Fields,Game Changers,45,SC,36,1,0
+Aubry Bracco,Game Changers,30,MA,37,0,0
+Tai Trang,Game Changers,52,CA,38,0,1
+Troyzan Robertson,Game Changers,54,FL,39,1,1
+Brad Culpepper,Game Changers,47,FL,39,1,1
+Sarah Lacina,Game Changers,32,IA,39,1,0
+Katrina Radke,Heroes vs. Healers vs. Hustlers,46,MN,3,0,0
+Simone Nguyen,Heroes vs. Healers vs. Hustlers,25,NY,6,0,0
+Patrick Bolton,Heroes vs. Healers vs. Hustlers,24,AL,8,0,1
+Alan Ball,Heroes vs. Healers vs. Hustlers,32,TX,11,0,1
+Roark Luskin,Heroes vs. Healers vs. Hustlers,27,CA,14,0,0
+Ali Elliott,Heroes vs. Healers vs. Hustlers,24,CA,16,0,0
+Jessica Johnston,Heroes vs. Healers vs. Hustlers,29,KY,19,0,0
+Desi Williams,Heroes vs. Healers vs. Hustlers,27,VA,21,0,0
+Cole Medders,Heroes vs. Healers vs. Hustlers,24,AR,24,0,1
+JP Hilsabeck,Heroes vs. Healers vs. Hustlers,28,CA,27,0,1
+Joe Mena,Heroes vs. Healers vs. Hustlers,34,CT,30,0,1
+Lauren Rimmer,Heroes vs. Healers vs. Hustlers,35,NC,33,0,0
+Ashley Nolan,Heroes vs. Healers vs. Hustlers,26,FL,36,0,0
+Mike Zahalsky,Heroes vs. Healers vs. Hustlers,43,FL,37,0,1
+Devon Pinto,Heroes vs. Healers vs. Hustlers,23,CA,38,1,1
+Ryan Ulrich,Heroes vs. Healers vs. Hustlers,23,NJ,39,1,1
+Chrissy Hofbeck,Heroes vs. Healers vs. Hustlers,46,NJ,39,1,0
+Ben Driebergen,Heroes vs. Healers vs. Hustlers,34,ID,39,1,1

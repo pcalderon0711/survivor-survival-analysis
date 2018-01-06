@@ -1,0 +1,634 @@
+name,season,age,state,elim,is_censored,sex,region,coast,school,agegroup
+Sonja Christopher,Borneo,63,CA,3,0,Female,West,West Coast,Old School,Old
+B.B. Andersen,Borneo,64,KS,6,0,Male,Midwest,Not Coast,Old School,Old
+Stacey Stillman,Borneo,27,CA,9,0,Female,West,West Coast,Old School,Young
+Ramona Gray,Borneo,29,NJ,12,0,Female,Northeast,East Coast,Old School,Young
+Dirk Been,Borneo,23,WI,15,0,Male,Midwest,Not Coast,Old School,Young
+Joel Klug,Borneo,27,AR,18,0,Male,South,Not Coast,Old School,Young
+Gretchen Cordy,Borneo,38,TN,21,0,Female,South,Not Coast,Old School,Middle
+Greg Buis,Borneo,24,CO,24,0,Male,West,Not Coast,Old School,Young
+Jenna Lewis,Borneo,22,NH,27,0,Female,Northeast,East Coast,Old School,Young
+Gervase Peterson,Borneo,30,NJ,30,0,Male,Northeast,East Coast,Old School,Young
+Colleen Haskell,Borneo,23,FL,33,0,Female,South,East Coast,Old School,Young
+Sean Kenniff,Borneo,30,NY,36,0,Male,Northeast,East Coast,Old School,Young
+Susan Hawk,Borneo,38,WI,37,0,Female,Midwest,Not Coast,Old School,Middle
+Rudy Boesch,Borneo,72,VA,38,0,Male,South,East Coast,Old School,Old
+Kelly Wiglesworth,Borneo,22,NV,39,1,Female,West,Not Coast,Old School,Young
+Richard Hatch,Borneo,39,RI,39,1,Male,Northeast,East Coast,Old School,Middle
+Debb Eaton,The Australian Outback,45,NH,3,0,Female,Northeast,East Coast,Old School,Middle
+Kel Gleason,The Australian Outback,32,TX,6,0,Male,South,Not Coast,Old School,Young
+Maralyn Hershey,The Australian Outback,51,VA,9,0,Female,South,East Coast,Old School,Old
+Mitchell Olson,The Australian Outback,23,NJ,12,0,Male,Northeast,East Coast,Old School,Young
+Kimmi Kappenberg,The Australian Outback,27,NY,15,0,Female,Northeast,East Coast,Old School,Young
+Michael Skupin,The Australian Outback,38,MI,17,1,Male,Midwest,Not Coast,Old School,Middle
+Jeff Varner,The Australian Outback,34,NY,21,0,Male,Northeast,East Coast,Old School,Young
+Alicia Calaway,The Australian Outback,32,NY,24,0,Female,Northeast,East Coast,Old School,Young
+Jerri Manthey,The Australian Outback,30,CA,27,0,Female,West,West Coast,Old School,Young
+Nick Brown,The Australian Outback,23,WA,30,0,Male,West,West Coast,Old School,Young
+Amber Brkich,The Australian Outback,22,PA,33,0,Female,Northeast,Not Coast,Old School,Young
+Rodger Bingham,The Australian Outback,53,KY,36,0,Male,South,Not Coast,Old School,Old
+Elisabeth Filarski,The Australian Outback,23,MA,39,0,Female,Northeast,East Coast,Old School,Young
+Keith Famie,The Australian Outback,40,MI,41,0,Male,Midwest,Not Coast,Old School,Middle
+Colby Donaldson,The Australian Outback,26,TX,42,1,Male,South,Not Coast,Old School,Young
+Tina Wesson,The Australian Outback,39,TN,42,1,Female,South,Not Coast,Old School,Middle
+Diane Ogden,Africa,42,NE,3,0,Female,Midwest,Not Coast,Old School,Middle
+Jessie Camacho,Africa,27,FL,6,0,Female,South,East Coast,Old School,Young
+Carl Bilancione,Africa,46,FL,9,0,Male,South,East Coast,Old School,Middle
+Linda Spencer,Africa,44,MA,12,0,Female,Northeast,East Coast,Old School,Middle
+Silas Gaither,Africa,23,TN,15,0,Male,South,Not Coast,Old School,Young
+Lindsey Richter,Africa,26,OR,18,0,Female,West,West Coast,Old School,Young
+Clarence Black,Africa,24,MI,21,0,Male,Midwest,Not Coast,Old School,Young
+Kelly Goldsmith,Africa,22,CA,24,0,Female,West,West Coast,Old School,Young
+Brandon Quinton,Africa,25,TX,27,0,Male,South,Not Coast,Old School,Young
+Frank Garrison,Africa,43,NY,30,0,Male,Northeast,East Coast,Old School,Middle
+Kim Powers,Africa,29,PA,33,0,Female,Northeast,Not Coast,Old School,Young
+Teresa Cooper,Africa,42,GA,36,0,Female,South,East Coast,Old School,Middle
+Tom Buchanan,Africa,45,VA,37,0,Male,South,East Coast,Old School,Middle
+Lex van den Berghe,Africa,38,CA,38,0,Male,West,West Coast,Old School,Middle
+Kim Johnson,Africa,56,NY,39,1,Female,Northeast,East Coast,Old School,Old
+Ethan Zohn,Africa,27,MA,39,1,Male,Northeast,East Coast,Old School,Young
+Peter Harkey,Marquesas,44,MA,3,0,Male,Northeast,East Coast,Old School,Middle
+Patricia Jackson,Marquesas,49,SC,6,0,Female,South,East Coast,Old School,Middle
+Hunter Ellis,Marquesas,33,CA,9,0,Male,West,West Coast,Old School,Young
+Sarah Jones,Marquesas,24,CA,12,0,Female,West,West Coast,Old School,Young
+Gabriel Cade,Marquesas,23,NC,15,0,Male,South,East Coast,Old School,Young
+Gina Crews,Marquesas,28,FL,18,0,Female,South,East Coast,Old School,Young
+Rob Mariano,Marquesas,25,MA,21,0,Male,Northeast,East Coast,Old School,Young
+John Carroll,Marquesas,36,NE,24,0,Male,Midwest,Not Coast,Old School,Middle
+Zoe Zanidakis,Marquesas,35,ME,27,0,Female,Northeast,East Coast,Old School,Young
+Tammy Leitner,Marquesas,29,AZ,30,0,Female,West,Not Coast,Old School,Young
+Robert DeCanio,Marquesas,38,NY,33,0,Male,Northeast,East Coast,Old School,Middle
+Sean Rector,Marquesas,30,NY,36,0,Male,Northeast,East Coast,Old School,Young
+Paschal English,Marquesas,56,GA,37,1,Male,South,East Coast,Old School,Old
+Kathy Vavrick-O'Brien,Marquesas,47,VT,38,0,Female,Northeast,Not Coast,Old School,Middle
+Neleh Dennis,Marquesas,21,UT,39,1,Female,West,Not Coast,Old School,Young
+Vecepia Towery,Marquesas,36,OR,39,1,Female,West,West Coast,Old School,Middle
+John Raymond,Thailand,40,LA,3,0,Male,South,Not Coast,Old School,Middle
+Tanya Vance,Thailand,27,TN,6,0,Female,South,Not Coast,Old School,Young
+Jed Hildebrand,Thailand,25,TX,9,0,Male,South,Not Coast,Old School,Young
+Ghandia Johnson,Thailand,33,CO,12,0,Female,West,Not Coast,Old School,Young
+Stephanie Dill,Thailand,29,AR,15,0,Female,South,Not Coast,Old School,Young
+Robb Zbacnik,Thailand,23,AZ,18,0,Male,West,Not Coast,Old School,Young
+Shii Ann Huang,Thailand,28,NY,21,0,Female,Northeast,East Coast,Old School,Young
+Erin Collins,Thailand,26,TX,24,0,Female,South,Not Coast,Old School,Young
+Ken Stafford,Thailand,30,NY,27,0,Male,Northeast,East Coast,Old School,Young
+Penny Ramsey,Thailand,27,TX,30,0,Female,South,Not Coast,Old School,Young
+Jake Billingsley,Thailand,60,TX,33,0,Male,South,Not Coast,Old School,Old
+Ted Rogers Jr.,Thailand,37,NC,36,0,Male,South,East Coast,Old School,Middle
+Helen Glover,Thailand,47,RI,37,0,Female,Northeast,East Coast,Old School,Middle
+Jan Gentry,Thailand,53,FL,38,0,Female,South,East Coast,Old School,Old
+Clay Jordan,Thailand,46,LA,39,1,Male,South,Not Coast,Old School,Middle
+Brian Heidik,Thailand,34,CA,39,1,Male,West,West Coast,Old School,Young
+Ryan Aiken,The Amazon,23,MD,3,0,Male,South,Not Coast,Old School,Young
+Janet Koth,The Amazon,46,MO,6,0,Female,Midwest,Not Coast,Old School,Middle
+Daniel Lue,The Amazon,26,TX,9,0,Male,South,Not Coast,Old School,Young
+JoAnna Ward,The Amazon,31,SC,12,0,Female,South,East Coast,Old School,Young
+Jeanne Hebert,The Amazon,40,MA,15,0,Female,Northeast,East Coast,Old School,Middle
+Shawna Mitchell,The Amazon,23,CA,18,0,Female,West,West Coast,Old School,Young
+Roger Sexton,The Amazon,56,CA,21,0,Male,West,West Coast,Old School,Old
+Dave Johnson,The Amazon,23,CA,24,0,Male,West,West Coast,Old School,Young
+Deena Bennett,The Amazon,35,CA,27,0,Female,West,West Coast,Old School,Young
+Alex Bell,The Amazon,32,CA,30,0,Male,West,West Coast,Old School,Young
+Christy Smith,The Amazon,24,CO,33,0,Female,West,Not Coast,Old School,Young
+Heidi Strobel,The Amazon,24,MO,36,0,Female,Midwest,Not Coast,Old School,Young
+Butch Lockley,The Amazon,50,IL,37,0,Male,Midwest,Not Coast,Old School,Middle
+Rob Cesternino,The Amazon,24,NY,38,0,Male,Northeast,East Coast,Old School,Young
+Matthew von Ertfelda,The Amazon,33,DC,39,1,Male,South,Not Coast,Old School,Young
+Jenna Morasca,The Amazon,21,PA,39,1,Female,Northeast,Not Coast,Old School,Young
+Nicole Delma,Pearl Islands,24,CA,3,0,Female,West,West Coast,Old School,Young
+Ryan Shoulders,Pearl Islands,23,TN,6,0,Male,South,Not Coast,Old School,Young
+Michelle Tesauro,Pearl Islands,22,NJ,15,0,Female,Northeast,East Coast,Old School,Young
+Trish Dunn,Pearl Islands,42,MD,18,0,Female,South,Not Coast,Old School,Middle
+Shawn Cohen,Pearl Islands,28,NY,19,0,Male,Northeast,East Coast,Old School,Young
+Osten Taylor,Pearl Islands,27,MA,19,1,Male,Northeast,East Coast,Old School,Young
+Andrew Savage,Pearl Islands,39,IL,21,0,Male,Midwest,Not Coast,Old School,Middle
+Ryan Opray,Pearl Islands,30,CA,24,0,Male,West,West Coast,Old School,Young
+Rupert Boneham,Pearl Islands,39,IN,27,0,Male,Midwest,Not Coast,Old School,Middle
+Tijuana Bradley,Pearl Islands,26,MO,30,0,Female,Midwest,Not Coast,Old School,Young
+Christa Hastie,Pearl Islands,24,CA,33,0,Female,West,West Coast,Old School,Young
+Burton Roberts,Pearl Islands,31,CA,36,0,Male,West,West Coast,Old School,Young
+Darrah Johnson,Pearl Islands,22,MS,37,0,Female,South,Not Coast,Old School,Young
+Jon Dalton,Pearl Islands,29,VA,38,0,Male,South,East Coast,Old School,Young
+Lillian Morris,Pearl Islands,51,OH,39,1,Female,Midwest,Not Coast,Old School,Old
+Sandra Diaz-Twine,Pearl Islands,29,WA,39,1,Female,West,West Coast,Old School,Young
+Tina Wesson,All-Stars,42,TN,3,0,Female,South,Not Coast,Old School,Middle
+Rudy Boesch,All-Stars,75,VA,6,0,Male,South,East Coast,Old School,Old
+Jenna Morasca,All-Stars,22,PA,9,1,Female,Northeast,Not Coast,Old School,Young
+Rob Cesternino,All-Stars,25,NY,12,0,Male,Northeast,East Coast,Old School,Young
+Richard Hatch,All-Stars,42,RI,15,0,Male,Northeast,East Coast,Old School,Middle
+Susan Hawk,All-Stars,42,WI,17,1,Female,Midwest,Not Coast,Old School,Middle
+Colby Donaldson,All-Stars,29,TX,19,0,Male,South,Not Coast,Old School,Young
+Ethan Zohn,All-Stars,30,MA,21,0,Male,Northeast,East Coast,Old School,Young
+Jerri Manthey,All-Stars,33,CA,24,0,Female,West,West Coast,Old School,Young
+Lex van den Berghe,All-Stars,40,CA,27,0,Male,West,West Coast,Old School,Middle
+Kathy Vavrick-O'Brien,All-Stars,49,VT,28,0,Female,Northeast,Not Coast,Old School,Middle
+Alicia Calaway,All-Stars,35,NY,30,0,Female,Northeast,East Coast,Old School,Young
+Shii Ann Huang,All-Stars,29,NY,33,0,Female,Northeast,East Coast,Old School,Young
+Tom Buchanan,All-Stars,48,VA,36,0,Male,South,East Coast,Old School,Middle
+Rupert Boneham,All-Stars,39,IN,37,0,Male,Midwest,Not Coast,Old School,Middle
+Jenna Lewis,All-Stars,26,NH,38,0,Female,Northeast,East Coast,Old School,Young
+Rob Mariano,All-Stars,27,MA,39,1,Male,Northeast,East Coast,Old School,Young
+Amber Brkich,All-Stars,25,PA,39,1,Female,Northeast,Not Coast,Old School,Young
+Brook Geraghty,Vanuatu,27,MA,3,0,Male,Northeast,East Coast,Old School,Young
+Dolly Neely,Vanuatu,25,PA,6,0,Female,Northeast,Not Coast,Old School,Young
+John Palyok,Vanuatu,31,CA,7,0,Male,West,West Coast,Old School,Young
+Mia Galeotalanza,Vanuatu,29,NJ,7,0,Female,Northeast,East Coast,Old School,Young
+Brady Finta,Vanuatu,33,CA,10,0,Male,West,West Coast,Old School,Young
+Travis Sampson,Vanuatu,33,TN,12,0,Male,South,Not Coast,Old School,Young
+Lisa Keiffer,Vanuatu,44,LA,15,0,Female,South,Not Coast,Old School,Middle
+John Kenney,Vanuatu,22,CA,18,0,Male,West,West Coast,Old School,Young
+Rory Freeman,Vanuatu,35,IA,21,0,Male,Midwest,Not Coast,Old School,Young
+Lea Masters,Vanuatu,40,SC,24,0,Male,South,East Coast,Old School,Middle
+Chad Crittenden,Vanuatu,34,CA,27,0,Male,West,West Coast,Old School,Young
+Leann Slaby,Vanuatu,35,WI,30,0,Female,Midwest,Not Coast,Old School,Young
+Ami Cusack,Vanuatu,31,CO,33,0,Female,West,Not Coast,Old School,Young
+Julie Berry,Vanuatu,23,ME,36,0,Female,Northeast,East Coast,Old School,Young
+Eliza Orlins,Vanuatu,21,NY,37,0,Female,Northeast,East Coast,Old School,Young
+Scout Cloud Lee,Vanuatu,59,OK,38,0,Female,South,Not Coast,Old School,Old
+Twila Tanner,Vanuatu,41,MO,39,1,Female,Midwest,Not Coast,Old School,Middle
+Chris Daugherty,Vanuatu,33,OH,39,1,Male,Midwest,Not Coast,Old School,Young
+Jonathan Libby,Palau,23,TX,2,1,Male,South,Not Coast,Old School,Young
+Wanda Shirk,Palau,55,PA,2,1,Female,Northeast,Not Coast,Old School,Old
+Jolanda Jones,Palau,38,TX,3,0,Female,South,Not Coast,Old School,Middle
+Ashlee Ashby,Palau,22,SC,6,0,Female,South,East Coast,Old School,Young
+Jeff Wilson,Palau,21,CA,8,0,Male,West,West Coast,Old School,Young
+Kim Mullen,Palau,25,OH,11,0,Female,Midwest,Not Coast,Old School,Young
+Willard Smith,Palau,56,WA,12,0,Male,West,West Coast,Old School,Old
+Angie Jakusz,Palau,24,LA,12,0,Female,South,Not Coast,Old School,Young
+James Miller,Palau,33,AL,15,0,Male,South,Not Coast,Old School,Young
+Ibrehem Rahman,Palau,27,AL,18,0,Male,South,Not Coast,Old School,Young
+Bobby Jon Drinkard,Palau,27,AL,21,1,Male,South,Not Coast,Old School,Young
+Coby Archa,Palau,32,TX,24,0,Male,South,Not Coast,Old School,Young
+Janu Tornell,Palau,39,NV,27,1,Female,West,Not Coast,Old School,Middle
+Stephenie LaGrossa,Palau,24,PA,30,0,Female,Northeast,Not Coast,Old School,Young
+Gregg Carey,Palau,27,IL,33,0,Male,Midwest,Not Coast,Old School,Young
+Caryn Groedel,Palau,46,OH,36,0,Female,Midwest,Not Coast,Old School,Middle
+Jenn Lyon,Palau,32,CA,37,0,Female,West,West Coast,Old School,Young
+Ian Rosenberger,Palau,23,FL,38,0,Male,South,East Coast,Old School,Young
+Katie Gallagher,Palau,29,CA,39,1,Female,West,West Coast,Old School,Young
+Tom Westman,Palau,40,NY,39,1,Male,Northeast,East Coast,Old School,Middle
+Jim Lynch,Guatemala,63,CO,3,0,Male,West,Not Coast,Old School,Old
+Morgan McDevitt,Guatemala,21,IL,6,0,Female,Midwest,Not Coast,Old School,Young
+Brianna Varela,Guatemala,21,WA,8,0,Female,West,West Coast,Old School,Young
+Brooke Struck,Guatemala,25,OR,11,0,Female,West,West Coast,Old School,Young
+Blake Towsley,Guatemala,24,TX,14,0,Male,South,Not Coast,Old School,Young
+Margaret Bobonich,Guatemala,43,OH,15,0,Female,Midwest,Not Coast,Old School,Middle
+Brian Corridan,Guatemala,22,NY,15,0,Male,Northeast,East Coast,Old School,Young
+Amy O'Hara,Guatemala,39,MA,18,0,Female,Northeast,East Coast,Old School,Middle
+Brandon Bellinger,Guatemala,22,KS,21,0,Male,Midwest,Not Coast,Old School,Young
+Bobby Jon Drinkard,Guatemala,28,AL,24,0,Male,South,Not Coast,Old School,Young
+Jamie Newton,Guatemala,24,CA,27,0,Male,West,West Coast,Old School,Young
+Gary Hogeboom,Guatemala,46,MI,30,0,Male,Midwest,Not Coast,Old School,Middle
+Judd Sergeant,Guatemala,34,NJ,33,0,Male,Northeast,East Coast,Old School,Young
+Cindy Hall,Guatemala,31,FL,36,0,Female,South,East Coast,Old School,Young
+Lydia Morales,Guatemala,42,WA,37,0,Female,West,West Coast,Old School,Middle
+Rafe Judkins,Guatemala,22,RI,38,0,Male,Northeast,East Coast,Old School,Young
+Stephenie LaGrossa,Guatemala,25,PA,39,1,Female,Northeast,Not Coast,Old School,Young
+Danni Boatwright,Guatemala,30,KS,39,1,Female,Midwest,Not Coast,Old School,Young
+Tina Scheer,Panama,44,WI,3,0,Female,Midwest,Not Coast,Old School,Middle
+Melinda Hyder,Panama,32,TN,6,0,Female,South,Not Coast,Old School,Young
+Misty Giles,Panama,24,TX,8,0,Female,South,Not Coast,Old School,Young
+Ruth-Marie Milliman,Panama,48,SC,11,0,Female,South,East Coast,Old School,Middle
+Bobby Mason,Panama,32,CA,14,0,Male,West,West Coast,Old School,Young
+Dan Barry,Panama,51,MA,15,0,Male,Northeast,East Coast,Old School,Old
+Nick Stanbury,Panama,25,AZ,18,0,Male,West,Not Coast,Old School,Young
+Austin Carty,Panama,24,NC,21,0,Male,South,East Coast,Old School,Young
+Sally Schumann,Panama,27,IL,24,0,Female,Midwest,Not Coast,Old School,Young
+Bruce Kanegai,Panama,57,CA,25,1,Male,West,West Coast,Old School,Old
+Courtney Marit,Panama,31,CA,30,0,Female,West,West Coast,Old School,Young
+Shane Powers,Panama,34,CA,33,0,Male,West,West Coast,Old School,Young
+Cirie Fields,Panama,35,SC,36,0,Female,South,East Coast,Old School,Young
+Terry Deitz,Panama,46,CT,38,0,Male,Northeast,East Coast,Old School,Middle
+Danielle DiLorenzo,Panama,24,FL,39,1,Female,South,East Coast,Old School,Young
+Aras Baskauskas,Panama,24,CA,39,1,Male,West,West Coast,Old School,Young
+Sekou Bunch,Cook Islands,45,CA,3,0,Male,West,West Coast,Old School,Middle
+Billy Garcia,Cook Islands,36,NY,6,0,Male,Northeast,East Coast,Old School,Middle
+Cecilia Mansilla,Cook Islands,29,CA,8,0,Female,West,West Coast,Old School,Young
+J.P. Calderon,Cook Islands,30,CA,11,0,Male,West,West Coast,Old School,Young
+Stephannie Favor,Cook Islands,35,SC,14,0,Female,South,East Coast,Old School,Young
+Cao Boi Bui,Cook Islands,42,VA,15,0,Male,South,East Coast,Old School,Middle
+Cristina Coria,Cook Islands,35,CA,15,0,Female,West,West Coast,Old School,Young
+Jessica Smith,Cook Islands,27,CA,18,0,Female,West,West Coast,Old School,Young
+Brad Virata,Cook Islands,29,CA,21,0,Male,West,West Coast,Old School,Young
+Rebecca Borman,Cook Islands,34,NY,24,0,Female,Northeast,East Coast,Old School,Young
+Jenny Guzon-Bae,Cook Islands,36,IL,24,0,Female,Midwest,Not Coast,Old School,Middle
+Nate Gonzalez,Cook Islands,26,CA,27,0,Male,West,West Coast,Old School,Young
+Candice Woodcock,Cook Islands,23,NC,30,0,Female,South,East Coast,Old School,Young
+Jonathan Penner,Cook Islands,44,CA,33,0,Male,West,West Coast,Old School,Middle
+Parvati Shallow,Cook Islands,23,CA,36,0,Female,West,West Coast,Old School,Young
+Adam Gentry,Cook Islands,28,CA,37,0,Male,West,West Coast,Old School,Young
+Sundra Oakley,Cook Islands,31,CA,38,0,Female,West,West Coast,Old School,Young
+Becky Lee,Cook Islands,28,DC,39,1,Female,South,Not Coast,Old School,Young
+Ozzy Lusth,Cook Islands,25,CA,39,1,Male,West,West Coast,Old School,Young
+Yul Kwon,Cook Islands,31,CA,39,1,Male,West,West Coast,Old School,Young
+Jessica deBen,Fiji,27,CA,3,0,Female,West,West Coast,Old School,Young
+Erica Durousseau,Fiji,27,LA,6,0,Female,South,Not Coast,Old School,Young
+Sylvia Kwan,Fiji,52,CA,8,0,Female,West,West Coast,Old School,Old
+Gary Stritesky,Fiji,55,MN,10,1,Male,Midwest,Not Coast,Old School,Old
+Liliana Gomez,Fiji,25,CA,11,0,Female,West,West Coast,Old School,Young
+Rita Verreos,Fiji,38,TX,14,0,Female,South,Not Coast,Old School,Middle
+Anthony Robinson,Fiji,32,CA,16,0,Male,West,West Coast,Old School,Young
+Rocky Reid,Fiji,28,CA,19,0,Male,West,West Coast,Old School,Young
+Lisi Linares,Fiji,36,CA,21,0,Female,West,West Coast,Old School,Middle
+Michelle Yi,Fiji,23,OH,24,0,Female,Midwest,Not Coast,Old School,Young
+Edgardo Rivera,Fiji,28,FL,27,0,Male,South,East Coast,Old School,Young
+Mookie Lee,Fiji,25,IL,30,0,Male,Midwest,Not Coast,Old School,Young
+Alex Angarita,Fiji,28,CA,33,0,Male,West,West Coast,Old School,Young
+Stacy Kimball,Fiji,27,CO,36,0,Female,West,Not Coast,Old School,Young
+Boo Bernis,Fiji,34,LA,37,0,Male,South,Not Coast,Old School,Young
+Yau-Man Chan,Fiji,54,CA,38,0,Male,West,West Coast,Old School,Old
+Cassandra Franklin,Fiji,42,CA,39,1,Female,West,West Coast,Old School,Middle
+Dreamz Herd,Fiji,25,NC,39,1,Male,South,East Coast,Old School,Young
+Earl Cole,Fiji,35,CA,39,1,Male,West,West Coast,Old School,Young
+Chicken Morris,China,47,VA,3,0,Male,South,East Coast,Old School,Middle
+Ashley Massaro,China,28,NY,6,0,Female,Northeast,East Coast,Old School,Young
+Leslie Nease,China,38,SC,9,0,Female,South,East Coast,Old School,Middle
+Dave Cruser,China,37,CA,12,0,Male,West,West Coast,Old School,Middle
+Aaron Reisberger,China,32,CA,15,0,Male,West,West Coast,Old School,Young
+Sherea Lloyd,China,26,GA,18,0,Female,South,East Coast,Old School,Young
+Jaime Dugan,China,22,SC,21,0,Female,South,East Coast,Old School,Young
+Jean-Robert Bellande,China,36,NV,24,0,Male,West,Not Coast,Old School,Middle
+Frosti Zernow,China,20,IL,27,0,Male,Midwest,Not Coast,Old School,Young
+James Clement,China,30,LA,30,0,Male,South,Not Coast,Old School,Young
+Erik Huffman,China,26,TN,33,0,Male,South,Not Coast,Old School,Young
+Peih-Gee Law,China,29,CA,36,0,Female,West,West Coast,Old School,Young
+Denise Martin,China,40,MA,38,0,Female,Northeast,East Coast,Old School,Middle
+Amanda Kimmel,China,22,MT,39,1,Female,West,Not Coast,Old School,Young
+Courtney Yates,China,26,NY,39,1,Female,Northeast,East Coast,Old School,Young
+Todd Herzog,China,22,UT,39,1,Male,West,Not Coast,Old School,Young
+Jon Dalton,Micronesia,33,VA,3,0,Male,South,East Coast,Old School,Young
+Mary Sartain,Micronesia,29,CA,6,0,Female,West,West Coast,Old School,Young
+Yau-Man Chan,Micronesia,55,CA,8,0,Male,West,West Coast,Old School,Old
+Mikey Bortone,Micronesia,34,CA,11,0,Male,West,West Coast,Old School,Young
+Joel Anderson,Micronesia,32,AZ,14,0,Male,West,Not Coast,Old School,Young
+Jonathan Penner,Micronesia,45,CA,15,1,Male,West,West Coast,Old School,Middle
+Chet Welch,Micronesia,48,PA,17,0,Male,Northeast,Not Coast,Old School,Middle
+Kathy Sleckman,Micronesia,45,IL,19,1,Female,Midwest,Not Coast,Old School,Middle
+Tracy Hughes-Wolf,Micronesia,43,VA,20,0,Female,South,East Coast,Old School,Middle
+Ami Cusack,Micronesia,34,CO,21,0,Female,West,Not Coast,Old School,Young
+Eliza Orlins,Micronesia,25,NY,24,0,Female,Northeast,East Coast,Old School,Young
+Ozzy Lusth,Micronesia,26,CA,27,0,Male,West,West Coast,Old School,Young
+Jason Siska,Micronesia,22,IL,30,0,Male,Midwest,Not Coast,Old School,Young
+James Clement,Micronesia,30,LA,31,1,Male,South,Not Coast,Old School,Young
+Alexis Jones,Micronesia,24,CA,33,0,Female,West,West Coast,Old School,Young
+Erik Reichenbach,Micronesia,22,MI,36,0,Male,Midwest,Not Coast,Old School,Young
+Natalie Bolton,Micronesia,32,CA,37,0,Female,West,West Coast,Old School,Young
+Cirie Fields,Micronesia,37,CT,38,0,Female,Northeast,East Coast,Old School,Middle
+Amanda Kimmel,Micronesia,23,CA,39,1,Female,West,West Coast,Old School,Young
+Parvati Shallow,Micronesia,25,CA,39,1,Female,West,West Coast,Old School,Young
+Michelle Chase,Gabon,24,CA,3,0,Female,West,West Coast,Old School,Young
+Gillian Larson,Gabon,61,CA,6,0,Female,West,West Coast,Old School,Old
+Paloma Soto-Castillo,Gabon,23,CA,9,0,Female,West,West Coast,Old School,Young
+Jacquie Berg,Gabon,25,CA,12,0,Female,West,West Coast,Old School,Young
+G.C. Brown,Gabon,25,OR,15,0,Male,West,West Coast,Old School,Young
+Kelly Czarnecki,Gabon,22,IL,18,0,Female,Midwest,Not Coast,Old School,Young
+Ace Gordon,Gabon,27,FL,21,0,Male,South,East Coast,Old School,Young
+Dan Kay,Gabon,32,MA,21,0,Male,Northeast,East Coast,Old School,Young
+Marcus Lehman,Gabon,28,GA,24,0,Male,South,East Coast,Old School,Young
+Charlie Herschel,Gabon,29,NY,27,0,Male,Northeast,East Coast,Old School,Young
+Randy Bailey,Gabon,49,MO,30,0,Male,Midwest,Not Coast,Old School,Middle
+Corinne Kaplan,Gabon,29,CA,33,0,Female,West,West Coast,Old School,Young
+Crystal Cox,Gabon,29,NC,36,0,Female,South,East Coast,Old School,Young
+Ken Hoang,Gabon,22,CA,37,0,Male,West,West Coast,Old School,Young
+Matty Whitmore,Gabon,29,CA,38,0,Male,West,West Coast,Old School,Young
+Sugar Kiper,Gabon,29,NY,39,1,Female,Northeast,East Coast,Old School,Young
+Susie Smith,Gabon,47,IA,39,1,Female,Midwest,Not Coast,Old School,Middle
+Bob Crowley,Gabon,57,ME,39,1,Male,Northeast,East Coast,Old School,Old
+Carolina Eastwood,Tocantins,26,CA,3,0,Female,West,West Coast,Old School,Young
+Candace Smith,Tocantins,31,OH,6,0,Female,Midwest,Not Coast,Old School,Young
+Jerry Sims,Tocantins,49,SC,9,0,Male,South,East Coast,Old School,Middle
+Sandy Burgin,Tocantins,53,KY,12,0,Female,South,Not Coast,Old School,Old
+Spencer Duhm,Tocantins,18,FL,15,0,Male,South,East Coast,Old School,Young
+Sydney Wheeler,Tocantins,24,NC,18,0,Female,South,East Coast,Old School,Young
+Joe Dowdle,Tocantins,26,TX,20,1,Male,South,Not Coast,Old School,Young
+Brendan Synnott,Tocantins,30,NY,24,0,Male,Northeast,East Coast,Old School,Young
+Tyson Apostol,Tocantins,29,UT,27,0,Male,West,Not Coast,Old School,Young
+Sierra Reed,Tocantins,23,CA,30,0,Female,West,West Coast,Old School,Young
+Debbie Beebe,Tocantins,46,AL,33,0,Female,South,Not Coast,Old School,Middle
+Coach Wade,Tocantins,37,MO,36,0,Male,Midwest,Not Coast,Old School,Middle
+Taj Johnson-George,Tocantins,37,TN,37,0,Female,South,Not Coast,Old School,Middle
+Erinn Lobdell,Tocantins,26,WI,38,0,Female,Midwest,Not Coast,Old School,Young
+Stephen Fishbach,Tocantins,29,NY,39,1,Male,Northeast,East Coast,Old School,Young
+J.T. Thomas,Tocantins,24,AL,39,1,Male,South,Not Coast,Old School,Young
+Marisa Calihan,Samoa,26,OH,3,0,Female,Midwest,Not Coast,New School,Young
+Mike Borassi,Samoa,62,CA,5,1,Male,West,West Coast,New School,Old
+Betsy Bolan,Samoa,48,NH,6,0,Female,Northeast,East Coast,New School,Middle
+Ben Browning,Samoa,28,CA,8,0,Male,West,West Coast,New School,Young
+Yasmin Giles,Samoa,33,CA,11,0,Female,West,West Coast,New School,Young
+Ashley Trainer,Samoa,22,MN,14,0,Female,Midwest,Not Coast,New School,Young
+Russell Swan,Samoa,42,PA,15,1,Male,Northeast,Not Coast,New School,Middle
+Liz Kim,Samoa,33,NY,18,0,Female,Northeast,East Coast,New School,Young
+Erik Cardona,Samoa,28,CA,21,0,Male,West,West Coast,New School,Young
+Kelly Sharbaugh,Samoa,25,CA,24,0,Female,West,West Coast,New School,Young
+Laura Morett,Samoa,39,OR,27,0,Female,West,West Coast,New School,Middle
+John Fincher,Samoa,25,CA,30,0,Male,West,West Coast,New School,Young
+Dave Ball,Samoa,38,CA,31,0,Male,West,West Coast,New School,Middle
+Monica Padilla,Samoa,25,CA,33,0,Female,West,West Coast,New School,Young
+Shambo Waters,Samoa,45,WA,36,0,Female,West,West Coast,New School,Middle
+Jaison Robinson,Samoa,28,IL,37,0,Male,Midwest,Not Coast,New School,Young
+Brett Clouser,Samoa,23,CA,38,0,Male,West,West Coast,New School,Young
+Mick Trimming,Samoa,33,CA,39,1,Male,West,West Coast,New School,Young
+Russell Hantz,Samoa,36,TX,39,1,Male,South,Not Coast,New School,Middle
+Natalie White,Samoa,26,AR,39,1,Female,South,Not Coast,New School,Young
+Sugar Kiper,Heroes vs. Villains,30,CA,3,0,Female,West,West Coast,New School,Young
+Stephenie LaGrossa,Heroes vs. Villains,29,PA,6,0,Female,Northeast,Not Coast,New School,Young
+Randy Bailey,Heroes vs. Villains,50,TX,8,0,Male,South,Not Coast,New School,Middle
+Cirie Fields,Heroes vs. Villains,39,NJ,11,0,Female,Northeast,East Coast,New School,Middle
+Tom Westman,Heroes vs. Villains,45,NY,14,0,Male,Northeast,East Coast,New School,Middle
+Tyson Apostol,Heroes vs. Villains,30,UT,15,0,Male,West,Not Coast,New School,Young
+James Clement,Heroes vs. Villains,32,LA,15,0,Male,South,Not Coast,New School,Young
+Rob Mariano,Heroes vs. Villains,33,FL,18,0,Male,South,East Coast,New School,Young
+Coach Wade,Heroes vs. Villains,38,CA,21,0,Male,West,West Coast,New School,Middle
+Courtney Yates,Heroes vs. Villains,28,NY,24,0,Female,Northeast,East Coast,New School,Young
+J.T. Thomas,Heroes vs. Villains,25,AL,27,0,Male,South,Not Coast,New School,Young
+Amanda Kimmel,Heroes vs. Villains,25,CA,30,0,Female,West,West Coast,New School,Young
+Candice Woodcock,Heroes vs. Villains,26,DC,31,0,Female,South,Not Coast,New School,Young
+Danielle DiLorenzo,Heroes vs. Villains,28,CA,33,0,Female,West,West Coast,New School,Young
+Rupert Boneham,Heroes vs. Villains,45,IN,36,0,Male,Midwest,Not Coast,New School,Middle
+Colby Donaldson,Heroes vs. Villains,35,TX,37,0,Male,South,Not Coast,New School,Young
+Jerri Manthey,Heroes vs. Villains,38,CA,38,0,Female,West,West Coast,New School,Middle
+Russell Hantz,Heroes vs. Villains,36,TX,39,1,Male,South,Not Coast,New School,Middle
+Parvati Shallow,Heroes vs. Villains,26,CA,39,1,Female,West,West Coast,New School,Young
+Sandra Diaz-Twine,Heroes vs. Villains,35,CT,39,1,Female,Northeast,East Coast,New School,Young
+Wendy DeSmidt-Kohlhoff,Nicaragua,48,MT,3,0,Female,West,Not Coast,New School,Middle
+Shannon Elkins,Nicaragua,30,LA,6,0,Male,South,Not Coast,New School,Young
+Jimmy Johnson,Nicaragua,67,FL,8,0,Male,South,East Coast,New School,Old
+Jimmy Tarantino,Nicaragua,48,MA,11,0,Male,Northeast,East Coast,New School,Middle
+Tyrone Davis,Nicaragua,42,CA,14,0,Male,West,West Coast,New School,Middle
+Kelly Bruno,Nicaragua,26,NC,15,0,Female,South,East Coast,New School,Young
+Yve Rojas,Nicaragua,41,MO,15,0,Female,Midwest,Not Coast,New School,Middle
+Jill Behm,Nicaragua,43,PA,18,0,Female,Northeast,Not Coast,New School,Middle
+Alina Wilson,Nicaragua,23,CA,22,0,Female,West,West Coast,New School,Young
+Marty Piombo,Nicaragua,48,CA,24,0,Male,West,West Coast,New School,Middle
+Brenda Lowe,Nicaragua,27,FL,27,0,Female,South,East Coast,New School,Young
+NaOnka Mixon,Nicaragua,27,CA,28,1,Female,West,West Coast,New School,Young
+Kelly Shinn,Nicaragua,20,AZ,28,1,Female,West,Not Coast,New School,Young
+Benry Henry,Nicaragua,24,CA,32,0,Male,West,West Coast,New School,Young
+Jane Bright,Nicaragua,56,NC,36,0,Female,South,East Coast,New School,Old
+Dan Lembo,Nicaragua,63,NY,37,0,Male,Northeast,East Coast,New School,Old
+Holly Hoffman,Nicaragua,44,SD,38,0,Female,Midwest,Not Coast,New School,Middle
+Sash Lenahan,Nicaragua,30,NY,39,1,Male,Northeast,East Coast,New School,Young
+Chase Rice,Nicaragua,24,NC,39,1,Male,South,East Coast,New School,Young
+Fabio Birza,Nicaragua,21,CA,39,1,Male,West,West Coast,New School,Young
+Francesca Hogi,Redemption Island,36,DC,3,0,Female,South,Not Coast,New School,Middle
+Russell Hantz,Redemption Island,37,TX,8,0,Male,South,Not Coast,New School,Middle
+Kristina Kell,Redemption Island,46,CA,11,0,Female,West,West Coast,New School,Middle
+Krista Klumpp,Redemption Island,25,SC,13,0,Female,South,East Coast,New School,Young
+Stephanie Valencia,Redemption Island,26,CA,16,0,Female,West,West Coast,New School,Young
+Sarita White,Redemption Island,36,CA,18,0,Female,West,West Coast,New School,Middle
+David Murphy,Redemption Island,31,CA,24,0,Male,West,West Coast,New School,Young
+Julie Wolfe,Redemption Island,50,CA,27,0,Female,West,West Coast,New School,Middle
+Steve Wright,Redemption Island,51,CA,30,0,Male,West,West Coast,New School,Old
+Ralph Kiser,Redemption Island,45,VA,30,0,Male,South,East Coast,New School,Middle
+Grant Mattos,Redemption Island,29,CA,35,0,Male,West,West Coast,New School,Young
+Matthew Elrod,Redemption Island,22,TN,5,0,Male,South,Not Coast,New School,Young
+Mike Chiesl,Redemption Island,31,CA,22,0,Male,West,West Coast,New School,Young
+Andrea Boehlke,Redemption Island,21,WI,32,0,Female,Midwest,Not Coast,New School,Young
+Ashley Underwood,Redemption Island,25,ME,38,0,Female,Northeast,East Coast,New School,Young
+Natalie Tenerelli,Redemption Island,19,CA,39,1,Female,West,West Coast,New School,Young
+Phillip Sheppard,Redemption Island,52,CA,39,1,Male,West,West Coast,New School,Old
+Rob Mariano,Redemption Island,34,FL,39,1,Male,South,East Coast,New School,Young
+Semhar Tadesse,South Pacific,24,CA,3,0,Female,West,West Coast,New School,Young
+Mark Caruso,South Pacific,48,NY,8,0,Male,Northeast,East Coast,New School,Middle
+Stacey Powell,South Pacific,44,TX,11,0,Female,South,Not Coast,New School,Middle
+Elyse Umemoto,South Pacific,27,NV,14,0,Female,West,Not Coast,New School,Young
+Mikayla Wingle,South Pacific,22,FL,16,0,Female,South,East Coast,New School,Young
+Christine Shields Markoski,South Pacific,39,NY,5,0,Female,Northeast,East Coast,New School,Middle
+Jim Rice,South Pacific,35,CO,24,0,Male,West,Not Coast,New School,Young
+Keith Tollefson,South Pacific,26,CA,21,0,Male,West,West Coast,New School,Young
+Dawn Meehan,South Pacific,41,UT,27,0,Female,West,Not Coast,New School,Middle
+Whitney Duncan,South Pacific,27,TN,27,0,Female,South,Not Coast,New School,Young
+John Cochran,South Pacific,24,DC,30,0,Male,South,Not Coast,New School,Young
+Edna Ma,South Pacific,35,CA,32,0,Female,West,West Coast,New School,Young
+Brandon Hantz,South Pacific,19,TX,35,0,Male,South,Not Coast,New School,Young
+Rick Nelson,South Pacific,51,UT,37,0,Male,West,Not Coast,New School,Old
+Ozzy Lusth,South Pacific,30,CA,38,0,Male,West,West Coast,New School,Young
+Albert Destrade,South Pacific,26,FL,39,1,Male,South,East Coast,New School,Young
+Coach Wade,South Pacific,39,CA,39,1,Male,West,West Coast,New School,Middle
+Sophie Clarke,South Pacific,22,NY,39,1,Female,Northeast,East Coast,New School,Young
+Kourtney Moon,One World,29,TX,3,1,Female,South,Not Coast,New School,Young
+Nina Acosta,One World,51,CA,5,0,Female,West,West Coast,New School,Old
+Matt Quinlan,One World,33,CA,8,0,Male,West,West Coast,New School,Young
+Bill Posley,One World,28,CA,11,0,Male,West,West Coast,New School,Young
+Monica Culpepper,One World,41,FL,14,0,Female,South,East Coast,New School,Middle
+Colton Cumbie,One World,21,AL,16,1,Male,South,Not Coast,New School,Young
+Jonas Otsuji,One World,37,UT,20,0,Male,West,Not Coast,New School,Middle
+Michael Jefferson,One World,30,WA,22,0,Male,West,West Coast,New School,Young
+Jay Byars,One World,25,SC,25,0,Male,South,East Coast,New School,Young
+Leif Manson,One World,27,CA,27,0,Male,West,West Coast,New School,Young
+Troyzan Robertson,One World,50,FL,30,0,Male,South,East Coast,New School,Middle
+Kat Edorsson,One World,22,FL,33,0,Female,South,East Coast,New School,Young
+Tarzan Smith,One World,64,TX,36,0,Male,South,Not Coast,New School,Old
+Alicia Rosa,One World,25,IL,37,0,Female,Midwest,Not Coast,New School,Young
+Christina Cha,One World,29,CA,38,0,Female,West,West Coast,New School,Young
+Chelsea Meissner,One World,26,SC,39,1,Female,South,East Coast,New School,Young
+Sabrina Thompson,One World,33,NY,39,1,Female,Northeast,East Coast,New School,Young
+Kim Spradlin,One World,29,TX,39,1,Female,South,Not Coast,New School,Young
+Zane Knight,Philippines,28,VA,3,0,Male,South,East Coast,New School,Young
+Roxanne Morris,Philippines,28,NY,6,0,Female,Northeast,East Coast,New School,Young
+Angie Layton,Philippines,20,UT,8,0,Female,West,Not Coast,New School,Young
+Russell Swan,Philippines,45,PA,10,0,Male,Northeast,Not Coast,New School,Middle
+Dana Lambert,Philippines,32,NC,12,1,Female,South,East Coast,New School,Young
+Sarah Dawson,Philippines,28,MD,13,0,Female,South,Not Coast,New School,Young
+Katie Hanson,Philippines,22,DE,16,0,Female,South,East Coast,New School,Young
+R.C. Saint-Amour,Philippines,27,NY,19,0,Female,Northeast,East Coast,New School,Young
+Jeff Kent,Philippines,44,TX,22,0,Male,South,Not Coast,New School,Middle
+Artis Silvester,Philippines,53,LA,25,0,Male,South,Not Coast,New School,Old
+Pete Yurkowski,Philippines,24,NJ,27,0,Male,Northeast,East Coast,New School,Young
+Jonathan Penner,Philippines,50,CA,30,0,Male,West,West Coast,New School,Middle
+Carter Williams,Philippines,24,KS,33,0,Male,Midwest,Not Coast,New School,Young
+Abi-Maria Gomes,Philippines,32,CA,36,0,Female,West,West Coast,New School,Young
+Malcolm Freberg,Philippines,25,CA,38,0,Male,West,West Coast,New School,Young
+Lisa Whelchel,Philippines,49,TX,39,1,Female,South,Not Coast,New School,Middle
+Michael Skupin,Philippines,50,MI,39,1,Male,Midwest,Not Coast,New School,Middle
+Denise Stapley,Philippines,41,IA,39,1,Female,Midwest,Not Coast,New School,Middle
+Francesca Hogi,Caramoan,38,NY,3,0,Female,Northeast,East Coast,New School,Middle
+Allie Pohevitz,Caramoan,25,NY,5,0,Female,Northeast,East Coast,New School,Young
+Hope Driskill,Caramoan,23,MO,7,0,Female,Midwest,Not Coast,New School,Young
+Shamar Thomas,Caramoan,27,NY,10,1,Male,Northeast,East Coast,New School,Young
+Laura Alexander,Caramoan,23,DC,10,0,Female,South,Not Coast,New School,Young
+Brandon Hantz,Caramoan,20,TX,13,0,Male,South,Not Coast,New School,Young
+Matt Bischoff,Caramoan,38,OH,16,0,Male,Midwest,Not Coast,New School,Middle
+Julia Landauer,Caramoan,21,CA,19,0,Female,West,West Coast,New School,Young
+Corinne Kaplan,Caramoan,33,CA,22,0,Female,West,West Coast,New School,Young
+Michael Snow,Caramoan,44,NY,25,0,Male,Northeast,East Coast,New School,Middle
+Phillip Sheppard,Caramoan,54,CA,28,0,Male,West,West Coast,New School,Old
+Malcolm Freberg,Caramoan,25,CA,30,0,Male,West,West Coast,New School,Young
+Reynold Toepfer,Caramoan,30,CA,31,0,Male,West,West Coast,New School,Young
+Andrea Boehlke,Caramoan,23,NY,33,0,Female,Northeast,East Coast,New School,Young
+Brenda Lowe,Caramoan,29,FL,36,0,Female,South,East Coast,New School,Young
+Erik Reichenbach,Caramoan,27,CA,36,1,Male,West,West Coast,New School,Young
+Eddie Fox,Caramoan,23,NJ,38,0,Male,Northeast,East Coast,New School,Young
+Dawn Meehan,Caramoan,42,UT,39,1,Female,West,Not Coast,New School,Middle
+Sherri Biethman,Caramoan,41,ID,39,1,Female,West,Not Coast,New School,Middle
+John Cochran,Caramoan,25,DC,39,1,Male,South,Not Coast,New School,Young
+Rupert Boneham,Blood vs. Water,49,IN,1,1,Male,Midwest,Not Coast,New School,Middle
+Colton Cumbie,Blood vs. Water,22,AL,7,1,Male,South,Not Coast,New School,Young
+Rachel Foulger,Blood vs. Water,33,UT,6,0,Female,West,Not Coast,New School,Young
+Marissa Peterson,Blood vs. Water,21,NC,3,0,Female,South,East Coast,New School,Young
+Candice Cody,Blood vs. Water,30,DC,1,1,Female,South,Not Coast,New School,Young
+Brad Culpepper,Blood vs. Water,44,FL,10,0,Male,South,East Coast,New School,Middle
+Kat Edorsson,Blood vs. Water,23,FL,16,0,Female,South,East Coast,New School,Young
+John Cody,Blood vs. Water,30,DC,8,0,Male,South,Not Coast,New School,Young
+Laura Boneham,Blood vs. Water,44,IN,18,0,Female,Midwest,Not Coast,New School,Middle
+Aras Baskauskas,Blood vs. Water,31,CA,21,0,Male,West,West Coast,New School,Young
+Vytas Baskauskas,Blood vs. Water,33,CA,22,0,Male,West,West Coast,New School,Young
+Caleb Bankston,Blood vs. Water,26,AL,29,0,Male,South,Not Coast,New School,Young
+Katie Collins,Blood vs. Water,25,NY,32,0,Female,Northeast,East Coast,New School,Young
+Hayden Moss,Blood vs. Water,27,TX,35,0,Male,South,Not Coast,New School,Young
+Laura Morett,Blood vs. Water,43,OR,26,0,Female,West,West Coast,New School,Middle
+Ciera Eastin,Blood vs. Water,24,OR,37,0,Female,West,West Coast,New School,Young
+Tina Wesson,Blood vs. Water,52,NC,38,0,Female,South,East Coast,New School,Old
+Gervase Peterson,Blood vs. Water,43,PA,39,1,Male,Northeast,Not Coast,New School,Middle
+Monica Culpepper,Blood vs. Water,42,FL,39,1,Female,South,East Coast,New School,Middle
+Tyson Apostol,Blood vs. Water,34,UT,39,1,Male,West,Not Coast,New School,Young
+David Samson,Cagayan,45,FL,3,0,Male,South,East Coast,New School,Middle
+Garrett Adelstein,Cagayan,27,CA,6,0,Male,West,West Coast,New School,Young
+Brice Johnston,Cagayan,27,PA,8,0,Male,Northeast,Not Coast,New School,Young
+J'Tia Taylor,Cagayan,31,IL,11,0,Female,Midwest,Not Coast,New School,Young
+Cliff Robinson,Cagayan,46,NJ,14,0,Male,Northeast,East Coast,New School,Middle
+Lindsey Ogle,Cagayan,29,IN,14,1,Female,Midwest,Not Coast,New School,Young
+Alexis Maxwell,Cagayan,21,IL,16,0,Female,Midwest,Not Coast,New School,Young
+Sarah Lacina,Cagayan,29,IA,19,0,Female,Midwest,Not Coast,New School,Young
+Morgan McLeod,Cagayan,21,CA,22,0,Female,West,West Coast,New School,Young
+LJ McKanas,Cagayan,34,MA,25,0,Male,Northeast,East Coast,New School,Young
+Jeremiah Wood,Cagayan,34,NC,28,0,Male,South,East Coast,New School,Young
+Jefra Bland,Cagayan,22,KY,30,0,Female,South,Not Coast,New School,Young
+Tasha Fox,Cagayan,37,MO,33,0,Female,Midwest,Not Coast,New School,Middle
+Trish Hegarty,Cagayan,48,MA,36,0,Female,Northeast,East Coast,New School,Middle
+Spencer Bledsoe,Cagayan,21,IL,37,0,Male,Midwest,Not Coast,New School,Young
+Kass McQuillen,Cagayan,41,CA,38,0,Female,West,West Coast,New School,Middle
+Woo Hwang,Cagayan,29,CA,39,1,Male,West,West Coast,New School,Young
+Tony Vlachos,Cagayan,39,NJ,39,1,Male,Northeast,East Coast,New School,Middle
+Nadiya Anderson,San Juan del Sur,28,NJ,3,0,Female,Northeast,East Coast,New School,Young
+Val Collins,San Juan del Sur,35,MA,6,0,Female,Northeast,East Coast,New School,Young
+John Rocker,San Juan del Sur,39,GA,8,0,Male,South,East Coast,New School,Middle
+Drew Christy,San Juan del Sur,25,FL,10,0,Male,South,East Coast,New School,Young
+Kelley Wentworth,San Juan del Sur,28,WA,13,0,Female,West,West Coast,New School,Young
+Dale Wentworth,San Juan del Sur,55,WA,15,0,Male,West,West Coast,New School,Old
+Julie McGee,San Juan del Sur,34,GA,18,1,Female,South,East Coast,New School,Young
+Josh Canfield,San Juan del Sur,32,NY,21,0,Male,Northeast,East Coast,New School,Young
+Jeremy Collins,San Juan del Sur,36,MA,24,0,Male,Northeast,East Coast,New School,Middle
+Wes Nale,San Juan del Sur,23,LA,26,0,Male,South,Not Coast,New School,Young
+Reed Kelly,San Juan del Sur,31,NY,29,0,Male,Northeast,East Coast,New School,Young
+Alec Christy,San Juan del Sur,22,FL,32,0,Male,South,East Coast,New School,Young
+Jon Misch,San Juan del Sur,26,MI,35,0,Male,Midwest,Not Coast,New School,Young
+Baylor Wilson,San Juan del Sur,20,TN,37,0,Female,South,Not Coast,New School,Young
+Keith Nale,San Juan del Sur,53,LA,38,0,Male,South,Not Coast,New School,Old
+Missy Payne,San Juan del Sur,47,TX,39,1,Female,South,Not Coast,New School,Middle
+Jaclyn Schultz,San Juan del Sur,25,NV,39,1,Female,West,Not Coast,New School,Young
+Natalie Anderson,San Juan del Sur,28,NJ,39,1,Female,Northeast,East Coast,New School,Young
+So Kim,Worlds Apart,31,CA,3,0,Female,West,West Coast,New School,Young
+Vince Sly,Worlds Apart,32,CA,6,0,Male,West,West Coast,New School,Young
+Nina Poersch,Worlds Apart,51,CA,8,0,Female,West,West Coast,New School,Old
+Lindsey Cascaddan,Worlds Apart,24,FL,11,0,Female,South,East Coast,New School,Young
+Max Dawson,Worlds Apart,37,CA,14,0,Male,West,West Coast,New School,Middle
+Joaquin Souberbielle,Worlds Apart,27,NY,16,0,Male,Northeast,East Coast,New School,Young
+Kelly Remington,Worlds Apart,44,NY,19,0,Female,Northeast,East Coast,New School,Middle
+Hali Ford,Worlds Apart,25,CA,22,0,Female,West,West Coast,New School,Young
+Joe Anglim,Worlds Apart,25,AZ,24,0,Male,West,Not Coast,New School,Young
+Jenn Brown,Worlds Apart,22,CA,27,0,Female,West,West Coast,New School,Young
+Shirin Oskooi,Worlds Apart,31,CA,29,0,Female,West,West Coast,New School,Young
+Tyler Fredrickson,Worlds Apart,33,CA,32,0,Male,West,West Coast,New School,Young
+Dan Foley,Worlds Apart,47,ME,35,0,Male,Northeast,East Coast,New School,Middle
+Sierra Dawn Thomas,Worlds Apart,27,UT,37,0,Female,West,Not Coast,New School,Young
+Rodney Lavoie Jr.,Worlds Apart,24,MA,38,0,Male,Northeast,East Coast,New School,Young
+Carolyn Rivera,Worlds Apart,52,FL,39,1,Female,South,East Coast,New School,Old
+Will Sims II,Worlds Apart,41,CA,39,1,Male,West,West Coast,New School,Middle
+Mike Holloway,Worlds Apart,38,TX,39,1,Male,South,Not Coast,New School,Middle
+Vytas Baskauskas,Cambodia,35,CA,3,0,Male,West,West Coast,New School,Young
+Shirin Oskooi,Cambodia,32,CA,6,0,Female,West,West Coast,New School,Young
+Peih-Gee Law,Cambodia,37,CA,9,0,Female,West,West Coast,New School,Middle
+Jeff Varner,Cambodia,49,NC,11,0,Male,South,East Coast,New School,Middle
+Monica Padilla,Cambodia,30,NY,13,0,Female,Northeast,East Coast,New School,Young
+Terry Deitz,Cambodia,55,CT,13,1,Male,Northeast,East Coast,New School,Old
+Woo Hwang,Cambodia,31,CA,16,0,Male,West,West Coast,New School,Young
+Kass McQuillen,Cambodia,43,CA,19,0,Female,West,West Coast,New School,Middle
+Andrew Savage,Cambodia,51,CA,21,0,Male,West,West Coast,New School,Old
+Kelly Wiglesworth,Cambodia,37,NC,24,0,Female,South,East Coast,New School,Middle
+Ciera Eastin,Cambodia,26,OR,26,0,Female,West,West Coast,New School,Young
+Stephen Fishbach,Cambodia,36,NY,29,0,Male,Northeast,East Coast,New School,Middle
+Joe Anglim,Cambodia,26,AZ,32,0,Male,West,Not Coast,New School,Young
+Abi-Maria Gomes,Cambodia,35,CA,35,0,Female,West,West Coast,New School,Young
+Kimmi Kappenberg,Cambodia,42,TX,36,0,Female,South,Not Coast,New School,Middle
+Keith Nale,Cambodia,54,LA,37,0,Male,South,Not Coast,New School,Old
+Kelley Wentworth,Cambodia,29,WA,38,0,Female,West,West Coast,New School,Young
+Spencer Bledsoe,Cambodia,23,IL,39,1,Male,Midwest,Not Coast,New School,Young
+Tasha Fox,Cambodia,39,MO,39,1,Female,Midwest,Not Coast,New School,Middle
+Jeremy Collins,Cambodia,37,MA,39,1,Male,Northeast,East Coast,New School,Middle
+Darnell Hamilton,Kaôh Rōng,27,IL,3,0,Male,Midwest,Not Coast,New School,Young
+Jennifer Lanzetti,Kaôh Rōng,38,UT,6,0,Female,West,Not Coast,New School,Middle
+Liz Markham,Kaôh Rōng,27,NY,8,0,Female,Northeast,East Coast,New School,Young
+Caleb Reynolds,Kaôh Rōng,28,KY,9,1,Male,South,Not Coast,New School,Young
+Alecia Holden,Kaôh Rōng,24,TX,11,0,Female,South,Not Coast,New School,Young
+Anna Khait,Kaôh Rōng,26,NY,13,0,Female,Northeast,East Coast,New School,Young
+Peter Baggenstos,Kaôh Rōng,34,MN,16,0,Male,Midwest,Not Coast,New School,Young
+Neal Gottlieb,Kaôh Rōng,38,CA,19,1,Male,West,West Coast,New School,Middle
+Nick Maiorano,Kaôh Rōng,30,CA,22,0,Male,West,West Coast,New School,Young
+Debbie Wanner,Kaôh Rōng,49,PA,24,0,Female,Northeast,Not Coast,New School,Middle
+Scot Pollard,Kaôh Rōng,40,IN,27,0,Male,Midwest,Not Coast,New School,Middle
+Julia Sokolowski,Kaôh Rōng,19,MA,29,0,Female,Northeast,East Coast,New School,Young
+Kyle Jason,Kaôh Rōng,31,MI,32,0,Male,Midwest,Not Coast,New School,Young
+Joe del Campo,Kaôh Rōng,72,FL,34,1,Male,South,East Coast,New School,Old
+Cydney Gillon,Kaôh Rōng,23,GA,37,0,Female,South,East Coast,New School,Young
+Tai Trang,Kaôh Rōng,51,CA,39,1,Male,West,West Coast,New School,Old
+Aubry Bracco,Kaôh Rōng,29,MA,39,1,Female,Northeast,East Coast,New School,Young
+Michele Fitzgerald,Kaôh Rōng,24,NJ,39,1,Female,Northeast,East Coast,New School,Young
+Rachel Ako,Millennials vs. Gen X,37,CA,4,0,Female,West,West Coast,New School,Middle
+Mari Takahashi,Millennials vs. Gen X,31,CA,7,0,Female,West,West Coast,New School,Young
+Paul Wachter,Millennials vs. Gen X,52,FL,10,0,Male,South,East Coast,New School,Old
+Lucy Huang,Millennials vs. Gen X,42,CA,12,0,Female,West,West Coast,New School,Middle
+CeCe Taylor,Millennials vs. Gen X,39,CA,15,0,Female,West,West Coast,New School,Middle
+Figgy Figueroa,Millennials vs. Gen X,23,TN,18,0,Female,South,Not Coast,New School,Young
+Michaela Bradshaw,Millennials vs. Gen X,25,TX,20,0,Female,South,Not Coast,New School,Young
+Michelle Schubert,Millennials vs. Gen X,28,WA,23,0,Female,West,West Coast,New School,Young
+Taylor Stocker,Millennials vs. Gen X,24,ID,25,0,Male,West,Not Coast,New School,Young
+Chris Hammons,Millennials vs. Gen X,38,OK,28,0,Male,South,Not Coast,New School,Middle
+Jessica Lewis,Millennials vs. Gen X,37,NY,30,1,Female,Northeast,East Coast,New School,Middle
+Zeke Smith,Millennials vs. Gen X,28,NY,33,0,Male,Northeast,East Coast,New School,Young
+Will Wahl,Millennials vs. Gen X,18,NJ,34,0,Male,Northeast,East Coast,New School,Young
+Sunday Burquest,Millennials vs. Gen X,45,MN,35,0,Female,Midwest,Not Coast,New School,Middle
+Jay Starrett,Millennials vs. Gen X,27,FL,36,0,Male,South,East Coast,New School,Young
+Bret LaBelle,Millennials vs. Gen X,42,MA,37,0,Male,Northeast,East Coast,New School,Middle
+David Wright,Millennials vs. Gen X,42,CA,38,0,Male,West,West Coast,New School,Middle
+Hannah Shapiro,Millennials vs. Gen X,24,CA,39,1,Female,West,West Coast,New School,Young
+Ken McNickle,Millennials vs. Gen X,33,CO,39,1,Male,West,Not Coast,New School,Young
+Adam Klein,Millennials vs. Gen X,25,CA,39,1,Male,West,West Coast,New School,Young
+Ciera Eastin,Game Changers,27,OR,3,0,Female,West,West Coast,New School,Young
+Tony Vlachos,Game Changers,42,NJ,6,0,Male,Northeast,East Coast,New School,Middle
+Caleb Reynolds,Game Changers,28,KY,9,0,Male,South,Not Coast,New School,Young
+Malcolm Freberg,Game Changers,29,CA,11,0,Male,West,West Coast,New School,Young
+J.T. Thomas,Game Changers,31,AL,13,0,Male,South,Not Coast,New School,Young
+Sandra Diaz-Twine,Game Changers,41,CT,16,0,Female,Northeast,East Coast,New School,Middle
+Jeff Varner,Game Changers,50,NC,18,0,Male,South,East Coast,New School,Middle
+Hali Ford,Game Changers,26,CA,21,0,Female,West,West Coast,New School,Young
+Ozzy Lusth,Game Changers,34,CA,24,0,Male,West,West Coast,New School,Young
+Debbie Wanner,Game Changers,51,PA,26,0,Female,Northeast,Not Coast,New School,Old
+Zeke Smith,Game Changers,28,NY,29,0,Male,Northeast,East Coast,New School,Young
+Sierra Dawn Thomas,Game Changers,29,UT,32,0,Female,West,Not Coast,New School,Young
+Andrea Boehlke,Game Changers,27,NY,33,0,Female,Northeast,East Coast,New School,Young
+Michaela Bradshaw,Game Changers,25,TX,35,0,Female,South,Not Coast,New School,Young
+Cirie Fields,Game Changers,45,SC,36,1,Female,South,East Coast,New School,Middle
+Aubry Bracco,Game Changers,30,MA,37,0,Female,Northeast,East Coast,New School,Young
+Tai Trang,Game Changers,52,CA,38,0,Male,West,West Coast,New School,Old
+Troyzan Robertson,Game Changers,54,FL,39,1,Male,South,East Coast,New School,Old
+Brad Culpepper,Game Changers,47,FL,39,1,Male,South,East Coast,New School,Middle
+Sarah Lacina,Game Changers,32,IA,39,1,Female,Midwest,Not Coast,New School,Young
+Katrina Radke,Heroes vs. Healers vs. Hustlers,46,MN,3,0,Female,Midwest,Not Coast,New School,Middle
+Simone Nguyen,Heroes vs. Healers vs. Hustlers,25,NY,6,0,Female,Northeast,East Coast,New School,Young
+Patrick Bolton,Heroes vs. Healers vs. Hustlers,24,AL,8,0,Male,South,Not Coast,New School,Young
+Alan Ball,Heroes vs. Healers vs. Hustlers,32,TX,11,0,Male,South,Not Coast,New School,Young
+Roark Luskin,Heroes vs. Healers vs. Hustlers,27,CA,14,0,Female,West,West Coast,New School,Young
+Ali Elliott,Heroes vs. Healers vs. Hustlers,24,CA,16,0,Female,West,West Coast,New School,Young
+Jessica Johnston,Heroes vs. Healers vs. Hustlers,29,KY,19,0,Female,South,Not Coast,New School,Young
+Desi Williams,Heroes vs. Healers vs. Hustlers,27,VA,21,0,Female,South,East Coast,New School,Young
+Cole Medders,Heroes vs. Healers vs. Hustlers,24,AR,24,0,Male,South,Not Coast,New School,Young
+JP Hilsabeck,Heroes vs. Healers vs. Hustlers,28,CA,27,0,Male,West,West Coast,New School,Young
+Joe Mena,Heroes vs. Healers vs. Hustlers,34,CT,30,0,Male,Northeast,East Coast,New School,Young
+Lauren Rimmer,Heroes vs. Healers vs. Hustlers,35,NC,33,0,Female,South,East Coast,New School,Young
+Ashley Nolan,Heroes vs. Healers vs. Hustlers,26,FL,36,0,Female,South,East Coast,New School,Young
+Mike Zahalsky,Heroes vs. Healers vs. Hustlers,43,FL,37,0,Male,South,East Coast,New School,Middle
+Devon Pinto,Heroes vs. Healers vs. Hustlers,23,CA,38,1,Male,West,West Coast,New School,Young
+Ryan Ulrich,Heroes vs. Healers vs. Hustlers,23,NJ,39,1,Male,Northeast,East Coast,New School,Young
+Chrissy Hofbeck,Heroes vs. Healers vs. Hustlers,46,NJ,39,1,Female,Northeast,East Coast,New School,Middle
+Ben Driebergen,Heroes vs. Healers vs. Hustlers,34,ID,39,1,Male,West,Not Coast,New School,Young
